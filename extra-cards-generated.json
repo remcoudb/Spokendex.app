@@ -899,5 +899,434 @@
    "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
    "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_VMAX_(Sword_%26_Shield_50)"
   }
+ ],
+ "4": [
+  {
+   "id": "x-expansion-sheet-1-",
+   "set": {
+    "id": "x-expansion-sheet-1",
+    "name": "Expansion Sheet 1",
+    "releaseDate": null,
+    "equivalent": null
+   },
+   "localId": "—",
+   "number": "—",
+   "name": "Charmander",
+   "rarity": "Uncommon",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": null,
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Vending_S1)"
+  },
+  {
+   "id": "x-pok-mon-e-starter-deck-009",
+   "set": {
+    "id": "x-pok-mon-e-starter-deck",
+    "name": "Pokémon-e Starter Deck",
+    "releaseDate": "2002-09-15",
+    "equivalent": "Expedition Base Set"
+   },
+   "localId": "009",
+   "number": "009/029",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ecard1-97",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Expedition_97)"
+  },
+  {
+   "id": "x-pok-mon-e-starter-deck-010",
+   "set": {
+    "id": "x-pok-mon-e-starter-deck",
+    "name": "Pokémon-e Starter Deck",
+    "releaseDate": "2002-09-15",
+    "equivalent": "Expedition Base Set"
+   },
+   "localId": "010",
+   "number": "010/029",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ecard1-98",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Expedition_98)"
+  },
+  {
+   "id": "x-mcdonald-s-pok-mon-e-minimum-pack-004",
+   "set": {
+    "id": "x-mcdonald-s-pok-mon-e-minimum-pack",
+    "name": "McDonald's Pokémon-e Minimum Pack",
+    "releaseDate": null,
+    "equivalent": null
+   },
+   "localId": "004",
+   "number": "004/018",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": null,
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(McDonald_Pack_4)"
+  },
+  {
+   "id": "x-latias-ex-half-deck-001",
+   "set": {
+    "id": "x-latias-ex-half-deck",
+    "name": "Latias ex Half Deck",
+    "releaseDate": "2003-11-24",
+    "equivalent": "EX Dragon"
+   },
+   "localId": "001",
+   "number": "001/018",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ex3-98",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(EX_Dragon_98)"
+  },
+  {
+   "id": "x-charizard-starter-deck-009",
+   "set": {
+    "id": "x-charizard-starter-deck",
+    "name": "Charizard Starter Deck",
+    "releaseDate": "2004-09-01",
+    "equivalent": "EX FireRed & LeafGreen"
+   },
+   "localId": "009",
+   "number": "009/052",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ex6-57",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(EX_FireRed_%26_LeafGreen_57)"
+  },
+  {
+   "id": "x-charizard-starter-deck-010",
+   "set": {
+    "id": "x-charizard-starter-deck",
+    "name": "Charizard Starter Deck",
+    "releaseDate": "2004-09-01",
+    "equivalent": "EX FireRed & LeafGreen"
+   },
+   "localId": "010",
+   "number": "010/052",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ex6-58",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(EX_FireRed_%26_LeafGreen_58)"
+  },
+  {
+   "id": "x-earth-s-groudon-ex-constructed-starter-deck-004",
+   "set": {
+    "id": "x-earth-s-groudon-ex-constructed-starter-deck",
+    "name": "Earth's Groudon ex Constructed Starter Deck",
+    "releaseDate": "2006-08-30",
+    "equivalent": "EX Crystal Guardians"
+   },
+   "localId": "004",
+   "number": "004/016",
+   "name": "Charmander δ",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ex14-49",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_%CE%B4_(EX_Crystal_Guardians_49)"
+  },
+  {
+   "id": "PCG10-006",
+   "set": {
+    "id": "PCG10",
+    "name": "World Champions Pack",
+    "releaseDate": "2007-07-05",
+    "equivalent": "EX Power Keepers"
+   },
+   "localId": "006",
+   "number": "006/108",
+   "name": "Charmander",
+   "rarity": "Common",
+   "languages": {
+    "ja": [
+     "1st Edition",
+     "Unlimited"
+    ]
+   },
+   "counterpart": "ex16-48",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(EX_Power_Keepers_48)"
+  },
+  {
+   "id": "x-shining-darkness-",
+   "set": {
+    "id": "x-shining-darkness",
+    "name": "Shining Darkness",
+    "releaseDate": "2007-11-01",
+    "equivalent": "Secret Wonders"
+   },
+   "localId": "—",
+   "number": "—",
+   "name": "Charmander",
+   "rarity": "Common",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "dp3-82",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Secret_Wonders_82)"
+  },
+  {
+   "id": "x-dp-p-promotional-cards-124",
+   "set": {
+    "id": "x-dp-p-promotional-cards",
+    "name": "DP-P Promotional cards",
+    "releaseDate": null,
+    "equivalent": null
+   },
+   "localId": "124",
+   "number": "124/DP-P",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": null,
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(DP-P_Promo_124)"
+  },
+  {
+   "id": "x-advent-of-arceus-015",
+   "set": {
+    "id": "x-advent-of-arceus",
+    "name": "Advent of Arceus",
+    "releaseDate": "2009-11-04",
+    "equivalent": "Arceus"
+   },
+   "localId": "015",
+   "number": "015/090",
+   "name": "Charmander",
+   "rarity": "Common",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "pl4-59",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Arceus_59)"
+  },
+  {
+   "id": "x-freeze-bolt-010",
+   "set": {
+    "id": "x-freeze-bolt",
+    "name": "Freeze Bolt",
+    "releaseDate": "2012-11-07",
+    "equivalent": "Boundaries Crossed"
+   },
+   "localId": "010",
+   "number": "010/059",
+   "name": "Charmander",
+   "rarity": "C",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "bw7-18",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Boundaries_Crossed_18)"
+  },
+  {
+   "id": "CP3-003",
+   "set": {
+    "id": "CP3",
+    "name": "PokéKyun Collection",
+    "releaseDate": "2016-01-29",
+    "equivalent": "Generations"
+   },
+   "localId": "003",
+   "number": "003/032",
+   "name": "Charmander",
+   "rarity": "C",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "g1-RC3",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Generations_RC3)"
+  },
+  {
+   "id": "CP6-009",
+   "set": {
+    "id": "CP6",
+    "name": "Expansion Pack 20th Anniversary",
+    "releaseDate": "2016-09-16",
+    "equivalent": "Evolutions"
+   },
+   "localId": "009",
+   "number": "009/087",
+   "name": "Charmander",
+   "rarity": "C",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ],
+    "ko": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "xy12-9",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Evolutions_9)"
+  },
+  {
+   "id": "x-sun-moon-family-pok-mon-card-game-007",
+   "set": {
+    "id": "x-sun-moon-family-pok-mon-card-game",
+    "name": "Sun & Moon Family Pokémon Card Game",
+    "releaseDate": "2019-08-23",
+    "equivalent": "Hidden Fates"
+   },
+   "localId": "007",
+   "number": "007/051",
+   "name": "Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "sm115-7",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Hidden_Fates_7)"
+  },
+  {
+   "id": "x-great-detective-pikachu-005",
+   "set": {
+    "id": "x-great-detective-pikachu",
+    "name": "Great Detective Pikachu",
+    "releaseDate": "2019-03-29",
+    "equivalent": "Detective Pikachu"
+   },
+   "localId": "005",
+   "number": "005/024",
+   "name": "Charmander",
+   "rarity": "C",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "det1-4",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Detective_Pikachu_4)"
+  },
+  {
+   "id": "S4-010",
+   "set": {
+    "id": "S4",
+    "name": "Amazing Volt Tackle",
+    "releaseDate": "2020-09-18",
+    "equivalent": "Vivid Voltage"
+   },
+   "localId": "010",
+   "number": "010/100",
+   "name": "Charmander",
+   "rarity": "C",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ],
+    "zh-tw": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "swsh4-23",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Vivid_Voltage_23)"
+  },
+  {
+   "id": "S10b-008",
+   "set": {
+    "id": "S10b",
+    "name": "Pokémon GO",
+    "releaseDate": "2022-06-17",
+    "equivalent": "Pokémon GO"
+   },
+   "localId": "008",
+   "number": "008/071",
+   "name": "Charmander",
+   "rarity": "C",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "swsh10.5-008",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon_GO_8)"
+  },
+  {
+   "id": "x-guren-town-gym-",
+   "set": {
+    "id": "x-guren-town-gym",
+    "name": "Guren Town Gym",
+    "releaseDate": "2000-10-16",
+    "equivalent": "Gym Challenge"
+   },
+   "localId": "—",
+   "number": "—",
+   "name": "Blaine's Charmander",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "gym2-60",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Blaine%27s_Charmander_(Gym_Challenge_60)"
+  }
  ]
 }
