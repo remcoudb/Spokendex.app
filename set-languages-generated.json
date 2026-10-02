@@ -1,0 +1,5077 @@
+{
+ "2011bw": {
+  "name": "McDonald's Collection 2011",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2011_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2011 set was released in English, German, French, Italian, Spanish, and Portuguese."
+ },
+ "2012bw": {
+  "name": "McDonald's Collection 2012",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2012_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2012 set was released in English, French, and Portuguese, with the French version being released exclusively in Quebec, Canada."
+ },
+ "2014xy": {
+  "name": "McDonald's Collection 2014",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2014_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2014 set was released in English and French."
+ },
+ "2015xy": {
+  "name": "McDonald's Collection 2015",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2015_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2015 set was released in English and French."
+ },
+ "2016xy": {
+  "name": "McDonald's Collection 2016",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "ru": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2016_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2016 set was released in English, German, French, Italian, Spanish, and Russian."
+ },
+ "2017sm": {
+  "name": "McDonald's Collection 2017",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2017_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2017 set was released in English, German, French, Italian and Spanish."
+ },
+ "2018sm": {
+  "name": "McDonald's Collection 2018",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2018_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2018 set was released in English, German, French, Italian and Spanish."
+ },
+ "2019sm": {
+  "name": "McDonald's Collection 2019",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2019_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2019 set was released in English, German, French, Spanish, and Portuguese."
+ },
+ "2021swsh": {
+  "name": "McDonald's Collection 2021",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2021_(TCG)",
+  "note": "Bulbapedia: The McDonald's Collection 2021 is released in English, German, French, Italian, Spanish and Portuguese."
+ },
+ "ADV1": {
+  "name": "ADV Expansion Pack",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "1st Edition"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/ADV_Expansion_Pack_(TCG)",
+  "note": "Bulbapedia: The ADV Expansion Pack was released in both Japanese and Korean. The Japanese set was available in both 1st and unlimited edition, while the Korean set was only available in 1st edition."
+ },
+ "ADV2": {
+  "name": "Miracle of the Desert",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Miracle_of_the_Desert_(TCG)",
+  "note": "Bulbapedia: The Miracle of the Desert set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ADV3": {
+  "name": "Rulers of the Heavens",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rulers_of_the_Heavens_(TCG)",
+  "note": "Bulbapedia: The Rulers of the Heavens set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ADV4": {
+  "name": "Magma VS Aqua: Two Ambitions",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Magma_VS_Aqua:_Two_Ambitions_(TCG)",
+  "note": "Bulbapedia: The Magma VS Aqua: Two Ambitions set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ADV5": {
+  "name": "Undone Seal",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Undone_Seal_(TCG)",
+  "note": "Bulbapedia: The Undone Seal set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "CP5": {
+  "name": "Cruel Traitor",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Fever-Burst_Fighter/Cruel_Traitor_(TCG)",
+  "note": "Bulbapedia: The Fever-Burst Fighter and Cruel Traitor sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "CP6": {
+  "name": "Expansion Pack 20th Anniversary",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Expansion_Pack_20th_Anniversary_(TCG)",
+  "note": "Bulbapedia: The Expansion Pack 20th Anniversary set is released in Japanese, while the BASE PACK 20th Anniversary set was released in Korean."
+ },
+ "E1": {
+  "name": "Base Expansion Pack",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Base_Expansion_Pack_(TCG)",
+  "note": "Bulbapedia: The Base Expansion Pack set is released in Japanese, primarily available in 1st edition."
+ },
+ "E2": {
+  "name": "The Town on No Map",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/The_Town_on_No_Map_(TCG)",
+  "note": "Bulbapedia: The Town on No Map and Wind from the Sea sets are only released in Japanese, in both 1st and unlimited edition."
+ },
+ "E3": {
+  "name": "Wind from the Sea",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Wind_from_the_Sea_(TCG)",
+  "note": "Bulbapedia: The Town on No Map and Wind from the Sea sets are only released in Japanese, in both 1st and unlimited edition."
+ },
+ "E4": {
+  "name": "Split Earth",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Split_Earth_(TCG)",
+  "note": "Bulbapedia: The Split Earth and Mysterious Mountains sets are only released in Japanese, in both 1st and unlimited edition."
+ },
+ "E5": {
+  "name": "Mysterious Mountains",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Mysterious_Mountains_(TCG)",
+  "note": "Bulbapedia: The Split Earth and Mysterious Mountains sets are only released in Japanese, in both 1st and unlimited edition."
+ },
+ "L1a": {
+  "name": "HeartGold Collection",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/HeartGold_Collection/SoulSilver_Collection_(TCG)",
+  "note": "Bulbapedia: The HeartGold & SoulSilver Collection sets are only released in Japanese, exclusively in 1st Edition. All cards in this Japanese set, including the Pokémon Prime card but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. The Japanese version also introduced the Reverse Holofoil, known as mirror cards (ミラーカード), from the English version. Each Japanese booster pack came with eight Common and Uncommon, a Basic Energy, a Reverse Holofoil, and a Holofoil. All cards in this Japanese set, including the Pokémon Prime card but excluding all Pokémon LEGEND c"
+ },
+ "L1b": {
+  "name": "SoulSilver Collection",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/HeartGold_Collection/SoulSilver_Collection_(TCG)",
+  "note": "Bulbapedia: The HeartGold & SoulSilver Collection sets are only released in Japanese, exclusively in 1st Edition. All cards in this Japanese set, including the Pokémon Prime card but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. The Japanese version also introduced the Reverse Holofoil, known as mirror cards (ミラーカード), from the English version. Each Japanese booster pack came with eight Common and Uncommon, a Basic Energy, a Reverse Holofoil, and a Holofoil. All cards in this Japanese set, including the Pokémon Prime card but excluding all Pokémon LEGEND c"
+ },
+ "L2": {
+  "name": "Reviving Legends",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Reviving_Legends_(TCG)",
+  "note": "Bulbapedia: The Reviving Legends set is only released in Japanese, in both 1st Edition and Unlimited Edition. All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil."
+ },
+ "L3": {
+  "name": "Clash at the Summit",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Clash_at_the_Summit_(TCG)",
+  "note": "Bulbapedia: The Clash at the Summit set is only released in Japanese, in both 1st Edition and Unlimited Edition. All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil."
+ },
+ "LL": {
+  "name": "Lost Link",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Lost_Link_(TCG)",
+  "note": "Bulbapedia: Lost Link is only released in Japanese, exclusively in Unlimited Edition."
+ },
+ "M1L": {
+  "name": "Mega Brave",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Mega_Brave/Mega_Symphonia_(TCG)",
+  "note": "Bulbapedia: Mega Brave and Mega Symphonia are also released in Traditional Chinese on August 15, 2025, and in Korean on September 26, 2025."
+ },
+ "M1S": {
+  "name": "Mega Symphonia",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Mega_Brave/Mega_Symphonia_(TCG)",
+  "note": "Bulbapedia: Mega Brave and Mega Symphonia are also released in Traditional Chinese on August 15, 2025, and in Korean on September 26, 2025."
+ },
+ "M2": {
+  "name": "Inferno X",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Inferno_X_(TCG)",
+  "note": "Bulbapedia: Inferno X was released in Japan on September 26, 2025, followed by localized releases in Traditional Chinese on October 9, 2025, and in Korean on November 28, 2025."
+ },
+ "M2a": {
+  "name": "MEGA Dream ex",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ],
+   "id": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/MEGA_Dream_ex_(TCG)",
+  "note": "Bulbapedia: MEGA Dream ex is released in Japan on November 28, 2025, followed by localized releases in Traditional Chinese on December 5, 2025, in Thai on January 16, 2026, in Korean on January 23, 2026, and in Indonesian on January 30, 2026."
+ },
+ "M6a": {
+  "name": "30th Celebration",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/30th_Celebration_(TCG)",
+  "note": "Bulbapedia: The international 30th Celebration expansion includes cards released in the Japanese 30th Celebration expansion and the 30th Celebration Premium Deck Set Espeon & Umbreon product."
+ },
+ "MF": {
+  "name": "30th Celebration",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/30th_Celebration_(TCG)",
+  "note": "Bulbapedia: The international 30th Celebration expansion includes cards released in the Japanese 30th Celebration expansion and the 30th Celebration Premium Deck Set Espeon & Umbreon product."
+ },
+ "PCG1": {
+  "name": "Flight of Legends",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Flight_of_Legends_(TCG)",
+  "note": "Bulbapedia: The Flight of Legends set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG10": {
+  "name": "World Champions Pack",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/World_Champions_Pack_(TCG)",
+  "note": "Bulbapedia: The World Champions Pack is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG2": {
+  "name": "Clash of the Blue Sky",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Clash_of_the_Blue_Sky_(TCG)",
+  "note": "Bulbapedia: The Clash of the Blue Sky set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG3": {
+  "name": "Rocket Gang Strikes Back",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rocket_Gang_Strikes_Back_(TCG)",
+  "note": "Bulbapedia: The Rocket Gang Strikes Back set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG4": {
+  "name": "Golden Sky, Silvery Ocean",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Golden_Sky,_Silvery_Ocean_(TCG)",
+  "note": "Bulbapedia: The Golden Sky, Silvery Ocean set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG5": {
+  "name": "Mirage Forest",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Mirage_Forest_(TCG)",
+  "note": "Bulbapedia: The Mirage Forest set is only released in Japanese, in both 1st and unlimited edition. The Portuguese and Chinese version of this set lacked any Reverse Holofoils, and also lacked the Pikachu Secret Rare Box Topper. The Portuguese and Chinese version of this set lacked any Reverse Holofoils, and also lacked the Pikachu Secret Rare Box Topper."
+ },
+ "PCG6": {
+  "name": "Holon Research Tower",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Holon_Research_Tower_(TCG)",
+  "note": "Bulbapedia: The Holon Research Tower set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG7": {
+  "name": "Holon Phantom",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Holon_Phantom_(TCG)",
+  "note": "Bulbapedia: The Holon Phantom set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG8": {
+  "name": "Miracle Crystal",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Miracle_Crystal_(TCG)",
+  "note": "Bulbapedia: The Miracle Crystal set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PCG9": {
+  "name": "Offense and Defense of the Furthest Ends",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Offense_and_Defense_of_the_Furthest_Ends_(TCG)",
+  "note": "Bulbapedia: The Offense and Defense of the Furthest Ends set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "PMCG1": {
+  "name": "Expansion Pack",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Expansion_Pack_(TCG)",
+  "note": "Bulbapedia: The Expansion Pack is released in Japanese, of which all cards are available both with and without rarity symbol."
+ },
+ "PMCG2": {
+  "name": "Pokémon Jungle",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Jungle_(TCG)",
+  "note": "Bulbapedia: The Pokémon Jungle set is released in Japanese, all with rarity symbols."
+ },
+ "PMCG3": {
+  "name": "Mystery of the Fossils",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Mystery_of_the_Fossils_(TCG)",
+  "note": "Bulbapedia: The Mystery of the Fossils set is released in Japanese, all with rarity symbols."
+ },
+ "PMCG4": {
+  "name": "Rocket Gang",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rocket_Gang_(TCG)",
+  "note": "Bulbapedia: The Rocket Gang set is released in Japanese, all with rarity symbols."
+ },
+ "PMCG5": {
+  "name": "Leaders' Stadium",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Leaders%27_Stadium_(TCG)",
+  "note": "Bulbapedia: The Leaders' Stadium set is released in Japanese, all with rarity symbols."
+ },
+ "S11": {
+  "name": "Lost Abyss",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ],
+   "id": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Lost_Abyss_(TCG)",
+  "note": "Bulbapedia: Lost Abyss is available in Japanese, Chinese, Korean, Thai, and Indonesian."
+ },
+ "S12": {
+  "name": "Paradigm Trigger",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ],
+   "id": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Paradigm_Trigger_(TCG)",
+  "note": "Bulbapedia: Paradigm Trigger was available in Japanese, Chinese, Korean, Thai, and Indonesian."
+ },
+ "S1H": {
+  "name": "Shield",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Sword/Shield_(TCG)",
+  "note": "Bulbapedia: The Sword and Shield sets are released in Japanese and Korean, only available in unlimited edition."
+ },
+ "S1W": {
+  "name": "Sword",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Sword/Shield_(TCG)",
+  "note": "Bulbapedia: The Sword and Shield sets are released in Japanese and Korean, only available in unlimited edition."
+ },
+ "S1a": {
+  "name": "VMAX Rising",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/VMAX_Rising_(TCG)",
+  "note": "Bulbapedia: The VMAX Rising set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "S2": {
+  "name": "Rebellion Crash",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rebellion_Crash_(TCG)",
+  "note": "Bulbapedia: The Rebellion Crash set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "S2a": {
+  "name": "Explosive Walker",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Explosive_Walker_(TCG)",
+  "note": "Bulbapedia: The Explosive Walker set is released in Japanese and Korean, only available in unlimited edition. Cards in the Korean set were also available as Reverse Holos. Cards in the Korean set were also available as Reverse Holos."
+ },
+ "S3": {
+  "name": "Infinity Zone",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Infinity_Zone_(TCG)",
+  "note": "Bulbapedia: The Infinity Zone set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "S3a": {
+  "name": "Legendary Heartbeat",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Legendary_Heartbeat_(TCG)",
+  "note": "Bulbapedia: The Legendary Heartbeat set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "S4": {
+  "name": "Amazing Volt Tackle",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Amazing_Volt_Tackle_(TCG)",
+  "note": "Bulbapedia: The Chinese 驚天伏特攻擊 Amazing Volt Tackle expansion was released on October 9, 2020 in Taiwan and Hong Kong, thus marking when the Chinese TCG started matching the Japanese TCG sets in composition."
+ },
+ "S6H": {
+  "name": "Silver Lance",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ],
+   "id": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Silver_Lance/Jet-Black_Spirit_(TCG)",
+  "note": "Bulbapedia: The Silver Lance and Jet-Black Spirit sets are released in Japanese, Korean, Chinese, Thai, and Indonesian only available in unlimited edition."
+ },
+ "S6K": {
+  "name": "Jet-Black Spirit",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ],
+   "id": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Silver_Lance/Jet-Black_Spirit_(TCG)",
+  "note": "Bulbapedia: The Silver Lance and Jet-Black Spirit sets are released in Japanese, Korean, Chinese, Thai, and Indonesian only available in unlimited edition."
+ },
+ "S6a": {
+  "name": "Eevee Heroes",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Eevee_Heroes_(TCG)",
+  "note": "Bulbapedia: Ten puzzle cards were available in Japanese packs, each of which has a collection number, while seven unnumbered cards were included in Korean packs."
+ },
+ "S7D": {
+  "name": "Skyscraping Perfection",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ],
+   "id": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Skyscraping_Perfection/Blue_Sky_Stream_(TCG)",
+  "note": "Bulbapedia: The Skyscraping Perfection and Blue Sky Stream sets are released in Japanese, Korean, Chinese, Thai, and Indonesian only available in unlimited edition."
+ },
+ "S7R": {
+  "name": "Blue Sky Stream",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ],
+   "id": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Skyscraping_Perfection/Blue_Sky_Stream_(TCG)",
+  "note": "Bulbapedia: The Skyscraping Perfection and Blue Sky Stream sets are released in Japanese, Korean, Chinese, Thai, and Indonesian only available in unlimited edition."
+ },
+ "S8": {
+  "name": "Fusion Arts",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "zh-tw": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Fusion_Arts_(TCG)",
+  "note": "Bulbapedia: The Fusion Arts set are released in Japanese, Korean, Chinese, and Thai only available in unlimited edition."
+ },
+ "SM10": {
+  "name": "Double Blaze",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Double_Blaze_(TCG)",
+  "note": "Bulbapedia: The Double Blaze set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "SM11": {
+  "name": "Miracle Twin",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Miracle_Twin_(TCG)",
+  "note": "Bulbapedia: The Miracle Twin set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "SM12": {
+  "name": "Alter Genesis",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Alter_Genesis_(TCG)",
+  "note": "Bulbapedia: The Alter Genesis set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "SM1M": {
+  "name": "Collection Moon",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Collection_Sun/Collection_Moon_(TCG)",
+  "note": "Bulbapedia: The Collection Sun and Collection Moon sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM1S": {
+  "name": "Collection Sun",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Collection_Sun/Collection_Moon_(TCG)",
+  "note": "Bulbapedia: The Collection Sun and Collection Moon sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM2K": {
+  "name": "Islands Await You",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Islands_Await_You/Alolan_Moonlight_(TCG)",
+  "note": "Bulbapedia: The Islands Await You and Alolan Moonlight sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM2L": {
+  "name": "Alolan Moonlight",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Islands_Await_You/Alolan_Moonlight_(TCG)",
+  "note": "Bulbapedia: The Islands Await You and Alolan Moonlight sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM3H": {
+  "name": "To Have Seen the Battle Rainbow",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/To_Have_Seen_the_Battle_Rainbow/Darkness_that_Consumes_Light_(TCG)",
+  "note": "Bulbapedia: The To Have Seen the Battle Rainbow and Darkness that Consumes Light sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM3N": {
+  "name": "Darkness that Consumes Light",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/To_Have_Seen_the_Battle_Rainbow/Darkness_that_Consumes_Light_(TCG)",
+  "note": "Bulbapedia: The To Have Seen the Battle Rainbow and Darkness that Consumes Light sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM4A": {
+  "name": "Ultradimensional Beasts",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Awakened_Heroes/Ultradimensional_Beasts_(TCG)",
+  "note": "Bulbapedia: The Awakened Heroes and Ultradimensional Beasts sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM4S": {
+  "name": "Awakened Heroes",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Awakened_Heroes/Ultradimensional_Beasts_(TCG)",
+  "note": "Bulbapedia: The Awakened Heroes and Ultradimensional Beasts sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM5M": {
+  "name": "Ultra Moon",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ultra_Sun/Ultra_Moon_(TCG)",
+  "note": "Bulbapedia: The Ultra Sun & Ultra Moon sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM5S": {
+  "name": "Ultra Sun",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ultra_Sun/Ultra_Moon_(TCG)",
+  "note": "Bulbapedia: The Ultra Sun & Ultra Moon sets are released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM6": {
+  "name": "Forbidden Light",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_(TCG)",
+  "note": "Bulbapedia: The Forbidden Light set is released in Japanese and Korean, both only available in unlimited edition."
+ },
+ "SM7": {
+  "name": "Sky-Splitting Charisma",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Sky-Splitting_Charisma_(TCG)",
+  "note": "Bulbapedia: The Sky-Splitting Charisma set is released in Japanese and Korean."
+ },
+ "SM8": {
+  "name": "Super-Burst Impact",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Super-Burst_Impact_(TCG)",
+  "note": "Bulbapedia: The Super-Burst Impact set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "SM9": {
+  "name": "Tag Bolt",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Tag_Bolt_(TCG)",
+  "note": "Bulbapedia: The Tag Bolt set is released in Japanese and Korean, only available in unlimited edition."
+ },
+ "SV11B": {
+  "name": "Black Bolt",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Black_Bolt/White_Flare_(TCG)",
+  "note": "Bulbapedia: Black Bolt and White Flare are also released in Traditional Chinese on June 20, 2025, and in Korean on August 1, 2025."
+ },
+ "SV11W": {
+  "name": "White Flare",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Black_Bolt/White_Flare_(TCG)",
+  "note": "Bulbapedia: Black Bolt and White Flare are also released in Traditional Chinese on June 20, 2025, and in Korean on August 1, 2025."
+ },
+ "SV3": {
+  "name": "Ruler of the Black Flame",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ruler_of_the_Black_Flame_(TCG)",
+  "note": "Bulbapedia: Ruler of the Black Flame was available in Japanese on July 28, 2023, followed by localized releases in Traditional Chinese on August 11, 2023, in Korean on August 25, 2023, and in Thai on September 29, 2023."
+ },
+ "SV3a": {
+  "name": "Raging Surf",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Raging_Surf_(TCG)",
+  "note": "Bulbapedia: Raging Surf was released in Japanese on September 22, 2023, followed by localized releases in Traditional Chinese on September 29, 2023, in Korean on October 13, 2023, and in Thai on October 27, 2023."
+ },
+ "SV4K": {
+  "name": "Ancient Roar",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ancient_Roar/Future_Flash_(TCG)",
+  "note": "Bulbapedia: Ancient Roar and Future Flash were released in Japanese on October 27, 2023, followed by localized releases in Traditional Chinese on November 10, 2023, and in Thai on December 15, 2023."
+ },
+ "SV4M": {
+  "name": "Future Flash",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ancient_Roar/Future_Flash_(TCG)",
+  "note": "Bulbapedia: Ancient Roar and Future Flash were released in Japanese on October 27, 2023, followed by localized releases in Traditional Chinese on November 10, 2023, and in Thai on December 15, 2023."
+ },
+ "SV4a": {
+  "name": "Raging Surf",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Raging_Surf_(TCG)",
+  "note": "Bulbapedia: Raging Surf was released in Japanese on September 22, 2023, followed by localized releases in Traditional Chinese on September 29, 2023, in Korean on October 13, 2023, and in Thai on October 27, 2023."
+ },
+ "SV5K": {
+  "name": "Wild Force",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Wild_Force/Cyber_Judge_(TCG)",
+  "note": "Bulbapedia: Wild Force and Cyber Judge are released in Japanese on January 26, 2024, followed by localized releases in Traditional Chinese on February 2, 2024, in Thai on February 23, 2024, and in Korean on March 6, 2024."
+ },
+ "SV5M": {
+  "name": "Cyber Judge",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Wild_Force/Cyber_Judge_(TCG)",
+  "note": "Bulbapedia: Wild Force and Cyber Judge are released in Japanese on January 26, 2024, followed by localized releases in Traditional Chinese on February 2, 2024, in Thai on February 23, 2024, and in Korean on March 6, 2024."
+ },
+ "SV5a": {
+  "name": "Crimson Haze",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Crimson_Haze_(TCG)",
+  "note": "Bulbapedia: Crimson Haze was released in Japanese on March 22, 2024, followed by localized releases in Traditional Chinese on April 3, 2024, in Thai on April 26, 2024, and in Korean on May 24, 2024."
+ },
+ "SV6": {
+  "name": "Transformation Mask",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ],
+   "th": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Transformation_Mask_(TCG)",
+  "note": "Bulbapedia: Transformation Mask is released in Japanese on April 26, 2024, followed by localized releases in Traditional Chinese on May 10, 2024, in Thai on May 31, 2024, and in Korean on June 21, 2024."
+ },
+ "SV6a": {
+  "name": "Night Wanderer",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Night_Wanderer_(TCG)",
+  "note": "Bulbapedia: Night Wanderer is released in Japanese on June 7, 2024, followed by localized releases in Traditional Chinese on June 21, 2024, and in Korean on August 9, 2024."
+ },
+ "SV7": {
+  "name": "Stellar Miracle",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Miracle_(TCG)",
+  "note": "Bulbapedia: Stellar Miracle was released in Japanese on July 19, 2024, followed by localized releases in Traditional Chinese on August 2, 2024 and in Korean on September 6, 2024."
+ },
+ "SV7a": {
+  "name": "Paradise Dragona",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Paradise_Dragona_(TCG)",
+  "note": "Bulbapedia: Paradise Dragona was released in Japan on September 13, 2024, followed by localized releases in Traditional Chinese on September 27, 2024, and in Korean on October 30, 2024 — the year 2024 is the Year of the Dragon according to the Chinese calendar."
+ },
+ "SV8": {
+  "name": "Super Electric Breaker",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Super_Electric_Breaker_(TCG)",
+  "note": "Bulbapedia: Super Electric Breaker was released in Japan on October 18, 2024, followed by localized releases in Traditional Chinese on October 25, 2024, and in Korean on November 27, 2024."
+ },
+ "SV9": {
+  "name": "Battle Partners",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Battle_Partners_(TCG)",
+  "note": "Bulbapedia: Battle Partners was released in Japan on January 24, 2025, followed by localized releases in Traditional Chinese on February 7, 2025, and in Korean on March 21, 2025."
+ },
+ "SVK": {
+  "name": "Stellar Miracle",
+  "languages": {
+   "zh-tw": [
+    "Normaal"
+   ],
+   "ja": [
+    "Normaal"
+   ],
+   "ko": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Miracle_(TCG)",
+  "note": "Bulbapedia: Stellar Miracle was released in Japanese on July 19, 2024, followed by localized releases in Traditional Chinese on August 2, 2024 and in Korean on September 6, 2024."
+ },
+ "XY10": {
+  "name": "Awakening Psychic King",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Awakening_Psychic_King_(TCG)",
+  "note": "Bulbapedia: The Awakening Psychic King set is released in Japanese and Korean. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "XY11a": {
+  "name": "Fever-Burst Fighter",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Fever-Burst_Fighter/Cruel_Traitor_(TCG)",
+  "note": "Bulbapedia: The Fever-Burst Fighter and Cruel Traitor sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY11b": {
+  "name": "Cruel Traitor",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Fever-Burst_Fighter/Cruel_Traitor_(TCG)",
+  "note": "Bulbapedia: The Fever-Burst Fighter and Cruel Traitor sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY1a": {
+  "name": "Collection X",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Collection_X/Collection_Y_(TCG)",
+  "note": "Bulbapedia: The Collection X and Collection Y sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY1b": {
+  "name": "Collection Y",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Collection_X/Collection_Y_(TCG)",
+  "note": "Bulbapedia: The Collection X and Collection Y sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY2": {
+  "name": "Wild Blaze",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Wild_Blaze_(TCG)",
+  "note": "Bulbapedia: The Wild Blaze set is released in Japanese and Korean. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "XY3": {
+  "name": "Rising Fist",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rising_Fist_(TCG)",
+  "note": "Bulbapedia: The Rising Fist set is released in Japanese and Korean. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "XY4": {
+  "name": "Phantom Gate",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Phantom_Gate_(TCG)",
+  "note": "Bulbapedia: The Phantom Gate set is released in Japanese and Korean. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "XY5a": {
+  "name": "Gaia Volcano",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Gaia_Volcano/Tidal_Storm_(TCG)",
+  "note": "Bulbapedia: The Gaia Volcano and Tidal Storm sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY5b": {
+  "name": "Tidal Storm",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Gaia_Volcano/Tidal_Storm_(TCG)",
+  "note": "Bulbapedia: The Gaia Volcano and Tidal Storm sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY6": {
+  "name": "Emerald Break",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Emerald_Break_(TCG)",
+  "note": "Bulbapedia: The Emerald Break set is released in Japanese and Korean. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "XY7": {
+  "name": "Bandit Ring",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Bandit_Ring_(TCG)",
+  "note": "Bulbapedia: The Bandit Ring set is released in Japanese and Korean. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "XY8a": {
+  "name": "Blue Shock",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Blue_Shock/Red_Flash_(TCG)",
+  "note": "Bulbapedia: The Blue Shock and Red Flash sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY8b": {
+  "name": "Red Flash",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Blue_Shock/Red_Flash_(TCG)",
+  "note": "Bulbapedia: The Blue Shock and Red Flash sets are released in Japanese and Korean. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "XY9": {
+  "name": "Rage of the Broken Heavens",
+  "languages": {
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rage_of_the_Broken_Heavens_(TCG)",
+  "note": "Bulbapedia: The Rage of the Broken Heavens set is released in Japanese and Korean. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "base1": {
+  "name": "Base Set",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "nl": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ko": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "zh-tw": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Base_Set_(TCG)",
+  "note": "Bulbapedia: The Base Set was released in English, Dutch, German, French, Italian, Spanish, Portuguese, Korean, and Chinese, with most languages receiving both 1st Edition and Unlimited print runs."
+ },
+ "base2": {
+  "name": "Jungle",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "nl": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)",
+  "note": "Bulbapedia: The Jungle set is released in English, Dutch, German, French, Italian, Spanish, and Portuguese in both 1st and unlimited edition."
+ },
+ "base3": {
+  "name": "Fossil",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "nl": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)",
+  "note": "Bulbapedia: The Fossil set is released in English, Dutch, German, French, Italian, Spanish, and Portuguese in both 1st and unlimited edition."
+ },
+ "base4": {
+  "name": "Base Set 2",
+  "languages": {
+   "en": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Base_Set_2_(TCG)",
+  "note": "Bulbapedia: The Base Set 2 was only released in English, without any 1st edition print run."
+ },
+ "base5": {
+  "name": "Team Rocket",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Team_Rocket_(TCG)",
+  "note": "Bulbapedia: The Team Rocket set is released in English, German, French, and Italian, in both 1st and unlimited edition."
+ },
+ "bog": {
+  "name": "Best of game",
+  "languages": {
+   "en": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Best_of_Game_(TCG)",
+  "note": "Bulbapedia: Despite the collection being made to commemorate some of the best playable cards, four new cards that had never previously been released in English were produced."
+ },
+ "bw1": {
+  "name": "Black & White",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Black_%26_White_(TCG)",
+  "note": "Bulbapedia: The Black & White set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish set were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish set were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese sets are available in both 1st and unlimited edition, and the Korean set only in unlimited edition."
+ },
+ "bw10": {
+  "name": "Plasma Blast",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Plasma_Blast_(TCG)",
+  "note": "Bulbapedia: The Plasma Blast set is released in English, German, French, Italian, and Portuguese. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "bw11": {
+  "name": "Legendary Treasures",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Legendary_Treasures_(TCG)",
+  "note": "Bulbapedia: The Legendary Treasures set is only released in English. The English, Japanese, and Korean sets also had cards available as Reverse Holos. The English, Japanese, and Korean sets also had cards available as Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "bw2": {
+  "name": "Emerging Powers",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Emerging_Powers_(TCG)",
+  "note": "Bulbapedia: The Emerging Powers set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos (with the exception of the Portuguese set). The Emerging Powers set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos (with the exception of the Portuguese set)."
+ },
+ "bw4": {
+  "name": "Next Destinies",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Next_Destinies_(TCG)",
+  "note": "Bulbapedia: The Next Destinies set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "bw5": {
+  "name": "Dark Explorers",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Dark_Explorers_(TCG)",
+  "note": "Bulbapedia: The Dark Explorers set is released in English, German, French, Italian, and Portuguese, with cards also available as Reverse Holos (with the exception of the Portuguese set, which lacked Reverse Holos). The Dark Explorers set is released in English, German, French, Italian, and Portuguese, with cards also available as Reverse Holos (with the exception of the Portuguese set, which lacked Reverse Holos)."
+ },
+ "bw7": {
+  "name": "Boundaries Crossed",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Boundaries_Crossed_(TCG)",
+  "note": "Bulbapedia: The Boundaries Crossed set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "bw8": {
+  "name": "Plasma Storm",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Plasma_Storm_(TCG)",
+  "note": "Bulbapedia: The Plasma Storm set is released in English, German, French, Italian, Spanish, and Portuguese. The Portuguese set lacked any Reverse Holos, which were available in the other mentioned languages. The Portuguese set lacked any Reverse Holos, which were available in the other mentioned languages. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "bw9": {
+  "name": "Plasma Freeze",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Plasma_Freeze_(TCG)",
+  "note": "Bulbapedia: The Plasma Freeze set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos (with the exception of Portuguese, which lacked Reverse Holos). The Plasma Freeze set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos (with the exception of Portuguese, which lacked Reverse Holos)."
+ },
+ "col1": {
+  "name": "Call of Legends",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Call_of_Legends_(TCG)",
+  "note": "Bulbapedia: The Call of Legends set is released in English, German, French, and Italian, with cards also available as Reverse Holos. The Call of Legends set is released in English, German, French, and Italian, with cards also available as Reverse Holos."
+ },
+ "dp1": {
+  "name": "Diamond & Pearl",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ],
+   "pl": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Diamond_%26_Pearl_(TCG)",
+  "note": "Bulbapedia: The Diamond & Pearl set is released in English, German, French, Italian, Spanish, Portuguese, and Polish. Cards in the English, German, French, Italian, and Polish sets were also available in Reverse Holofoil. The Spanish and Portuguese versions of this set lacked any Reverse Holofoil cards. Cards in the English, German, French, Italian, and Polish sets were also available in Reverse Holofoil. The Spanish and Portuguese versions of this set lacked any Reverse Holofoil cards."
+ },
+ "dp2": {
+  "name": "Mysterious Treasures",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "pl": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Mysterious_Treasures_(TCG)",
+  "note": "Bulbapedia: The Mysterious Treasures set is released in English, German, French, Italian, Spanish, Portuguese, and Polish. Cards in the English, German, French, Italian, and Polish sets were also available as Reverse Holos. The Spanish and Portuguese versions of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Polish sets were also available as Reverse Holos. The Spanish and Portuguese versions of this set lacked any Reverse Holos. The Secret of the Lakes set was only released in Japanese, in both 1st and unlimited edition."
+ },
+ "dp3": {
+  "name": "Secret Wonders",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Secret_Wonders_(TCG)",
+  "note": "Bulbapedia: The Secret Wonders set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, and Italian sets were also available in Reverse Holofoil. The Spanish and Portuguese versions of this set lacked any Reverse Holofoil cards. Cards in the English, German, French, and Italian sets were also available in Reverse Holofoil. The Spanish and Portuguese versions of this set lacked any Reverse Holofoil cards."
+ },
+ "dp4": {
+  "name": "Great Encounters",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Great_Encounters_(TCG)",
+  "note": "Bulbapedia: The Great Encounters set is released in English, German, French, Italian, and Spanish. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. The Moonlit Pursuit set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "dp5": {
+  "name": "Majestic Dawn",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Majestic_Dawn_(TCG)",
+  "note": "Bulbapedia: The Majestic Dawn set is released in English, German, French, and Italian, which all also had Reverse Holos available. The Majestic Dawn set is released in English, German, French, and Italian, which all also had Reverse Holos available."
+ },
+ "dp6": {
+  "name": "Legends Awakened",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Legends_Awakened_(TCG)",
+  "note": "Bulbapedia: The Legends Awakened set is released in English, German, French, Italian, and Spanish. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. The Cry from the Mysterious and Temple of Anger sets are only released in Japanese, in both 1st and unlimited edition."
+ },
+ "dp7": {
+  "name": "Stormfront",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Stormfront_(TCG)",
+  "note": "Bulbapedia: The Stormfront set is released in English, German, French, Italian, and Spanish. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. The Japanese print featured Starlight Holofoil, while the English print was Reverse Holofoil. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. The Intense Fight in the Destroyed Sky set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ecard1": {
+  "name": "Expedition Base Set",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Expedition_Base_Set_(TCG)",
+  "note": "Bulbapedia: The Expedition Base Set is released in English, German, French, and Italian, with all cards in the set also available as Reverse Holo other than the basic energy cards. The Expedition Base Set is released in English, German, French, and Italian, with all cards in the set also available as Reverse Holo other than the basic energy cards."
+ },
+ "ecard2": {
+  "name": "Aquapolis",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Aquapolis_(TCG)",
+  "note": "Bulbapedia: The Aquapolis set is released in English, German, French, and Italian, with all cards except the \"H/32\" and secret rare cards also available as Reverse Holos. The Aquapolis set is released in English, German, French, and Italian, with all cards except the \"H/32\" and secret rare cards also available as Reverse Holos. The Town on No Map and Wind from the Sea sets are only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ecard3": {
+  "name": "Skyridge",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Skyridge_(TCG)",
+  "note": "Bulbapedia: The Skyridge set is released in English, German, and Italian, with all cards except the \"H/32\" cards also available as Reverse Holos. The Skyridge set is released in English, German, and Italian, with all cards except the \"H/32\" cards also available as Reverse Holos. The Split Earth and Mysterious Mountains sets are only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ex1": {
+  "name": "Ruby & Sapphire",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Ruby_%26_Sapphire_(TCG)",
+  "note": "Bulbapedia: The EX Ruby & Sapphire expansion was released in English, French, German, Italian, Spanish, and Portuguese, with cards in all of these languages also available as Reverse Holos. The EX Ruby & Sapphire expansion was released in English, French, German, Italian, Spanish, and Portuguese, with cards in all of these languages also available as Reverse Holos. The Japanese set was available in both 1st and unlimited edition, while the Korean set was only available in 1st edition."
+ },
+ "ex10": {
+  "name": "Unseen Forces",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Unseen_Forces_(TCG)",
+  "note": "Bulbapedia: The EX Unseen Forces set is released in English, German, French, Italian, Spanish, and Portuguese with cards also available as Reverse Holofoils. The non-holo Uncommons in the Japanese set are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English, German, French, Italian, Spanish, and Portuguese sets have three different codes available. The EX Unseen Forces set is released in English, German, French, Italian, Spanish, and Portuguese with cards also avai"
+ },
+ "ex11": {
+  "name": "Delta Species",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Delta_Species_(TCG)",
+  "note": "Bulbapedia: The EX Delta Species set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The non-Holo Commons in the English, German, French, and Italian sets have three different codes available in the bottom-left corner of the card; the Japanese set only uses a single code for each card. The EX Delta Species set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The Holon Research Tower set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ex12": {
+  "name": "Legend Maker",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "zh-tw": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Legend_Maker_(TCG)",
+  "note": "Bulbapedia: The EX Legend Maker set is released in English, German, French, Italian, Portuguese, and Chinese. Cards were also available as Reverse Holofoils in the English, German, French, and Italian sets. The Portuguese and Chinese version of this set lacked any Reverse Holofoils, and also lacked the Pikachu Secret Rare Box Topper. Cards were also available as Reverse Holofoils in the English, German, French, and Italian sets. The Portuguese and Chinese version of this set lacked any Reverse Holofoils, and also lacked the Pikachu Secret Rare Box Topper. The Mirage Forest set is only released in Japanese"
+ },
+ "ex13": {
+  "name": "Holon Phantoms",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Holon_Phantoms_(TCG)",
+  "note": "Bulbapedia: The EX Holon Phantom set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The EX Holon Phantom set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The Holon Phantom set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ex14": {
+  "name": "Crystal Guardians",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Crystal_Guardians_(TCG)",
+  "note": "Bulbapedia: The EX Crystal Guardians set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The EX Crystal Guardians set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The Miracle Crystal set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ex15": {
+  "name": "Dragon Frontiers",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Dragon_Frontiers_(TCG)",
+  "note": "Bulbapedia: The EX Dragon Frontiers set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The EX Dragon Frontiers set is released in English, German, French, and Italian, with cards also available as Reverse Holofoils. The Offense and Defense of the Furthest Ends set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ex16": {
+  "name": "Power Keepers",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Power_Keepers_(TCG)",
+  "note": "Bulbapedia: The EX Power Keepers set is released in English, German, and French, with cards also available as Reverse Holofoils. The EX Power Keepers set is released in English, German, and French, with cards also available as Reverse Holofoils. The World Champions Pack is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ex2": {
+  "name": "Sandstorm",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Sandstorm_(TCG)",
+  "note": "Bulbapedia: The EX Sandstorm set is released in English, French, German, and Italian, with cards also available as Reverse Holos. The non-holo Uncommons in the Japanese, English, French, German, and Italian sets are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English, French, German, and Italian sets have three different codes available. The EX Sandstorm set is released in English, French, German, and Italian, with cards also available as Reverse Holos. The Miracl"
+ },
+ "ex3": {
+  "name": "Dragon",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Dragon_(TCG)",
+  "note": "Bulbapedia: The EX Dragon set is released in English, French, German, and Italian, with cards also available as Reverse Holos. The non-holo Uncommons in the Japanese, English, French, German, and Italian sets are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English, French, German, and Italian sets have three different codes available. The EX Dragon set is released in English, French, German, and Italian, with cards also available as Reverse Holos. The Rulers of th"
+ },
+ "ex4": {
+  "name": "Team Magma vs Team Aqua",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Team_Magma_vs_Team_Aqua_(TCG)",
+  "note": "Bulbapedia: The EX Team Magma vs Team Aqua set is released in English, French, German, and Italian, with cards also available as Reverse Holos. The EX Team Magma vs Team Aqua set is released in English, French, German, and Italian, with cards also available as Reverse Holos. The Magma VS Aqua: Two Ambitions set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "ex5": {
+  "name": "Hidden Legends",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Hidden_Legends_(TCG)",
+  "note": "Bulbapedia: The EX Hidden Legends set is released in English, French, and Italian, with cards also available as Reverse Holofoils. The non-holo Uncommons in the Japanese, English, French, and Italian sets are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English, French, and Italian sets have three different codes available. The EX Hidden Legends set is released in English, French, and Italian, with cards also available as Reverse Holofoils. The Undone Seal set is o"
+ },
+ "ex5.5": {
+  "name": "Poké Card Creator Pack",
+  "languages": {
+   "en": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9_Card_Creator_Pack_(TCG)",
+  "note": "Bulbapedia: The Poké Card Creator Pack cards were exclusively released in English."
+ },
+ "ex6": {
+  "name": "FireRed & LeafGreen",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_FireRed_%26_LeafGreen_(TCG)",
+  "note": "Bulbapedia: The EX FireRed & LeafGreen set is released in English, French, German, and Italian, with cards also available as Reverse Holofoils. The non-holo Uncommons in the Japanese, English, French, German, and Italian sets are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English, French, German, and Italian sets have three different codes available. The EX FireRed & LeafGreen set is released in English, French, German, and Italian, with cards also available as R"
+ },
+ "ex7": {
+  "name": "Team Rocket Returns",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Team_Rocket_Returns_(TCG)",
+  "note": "Bulbapedia: The EX Team Rocket Returns set is only released in English and Portuguese, with cards also available as Reverse Holofoils. The non-holo Uncommons in the Japanese, English, and Portuguese sets are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English and Portuguese sets have three different codes available. The EX Team Rocket Returns set is only released in English and Portuguese, with cards also available as Reverse Holofoils. The Rocket Gang Strikes Bac"
+ },
+ "ex8": {
+  "name": "Deoxys",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Deoxys_(TCG)",
+  "note": "Bulbapedia: The EX Deoxys set is released in English, German, French, Italian, and Portuguese, with cards also available as Reverse Holofoils. The non-holo Uncommons in the Japanese, English, German, French, Italian, and Portuguese sets are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English, German, French, Italian, and Portuguese sets have three different codes available. The EX Deoxys set is released in English, German, French, Italian, and Portuguese, with car"
+ },
+ "ex9": {
+  "name": "Emerald",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Emerald_(TCG)",
+  "note": "Bulbapedia: The EX Emerald set is released in English, German, French, Italian, and Portuguese, with cards also available as Reverse Holofoils. EX Emerald was the first English expansion to include Holofoil Basic Energy cards, which replaced the Reverse Holofoil in every third pack of a booster box. The EX Emerald set is released in English, German, French, Italian, and Portuguese, with cards also available as Reverse Holofoils."
+ },
+ "exu": {
+  "name": "Unseen Forces Unown Collection",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "ja": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Unseen_Forces_(TCG)",
+  "note": "Bulbapedia: The EX Unseen Forces set is released in English, German, French, Italian, Spanish, and Portuguese with cards also available as Reverse Holofoils. The non-holo Uncommons in the Japanese set are available with two different codes at the bottom-left; the non-holo Commons in the Japanese set are available with four different codes at the bottom-left; and the non-Holo Commons in the English, German, French, Italian, Spanish, and Portuguese sets have three different codes available. The EX Unseen Forces set is released in English, German, French, Italian, Spanish, and Portuguese with cards also avai"
+ },
+ "g1": {
+  "name": "Generations",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Generations_(TCG)",
+  "note": "Bulbapedia: The Generations set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos."
+ },
+ "gym1": {
+  "name": "Gym Heroes",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Gym_Heroes_(TCG)",
+  "note": "Bulbapedia: The Gym Heroes set is only released in English, in both 1st and unlimited edition."
+ },
+ "gym2": {
+  "name": "Gym Challenge",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Gym_Challenge_(TCG)",
+  "note": "Bulbapedia: The Gym Challenge set is only released in English, in both 1st and unlimited edition."
+ },
+ "hgss1": {
+  "name": "HeartGold SoulSilver",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/HeartGold_%26_SoulSilver_(TCG)",
+  "note": "Bulbapedia: All cards in this Japanese set, including the Pokémon Prime card but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. The HeartGold & SoulSilver set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available in Reverse Holofoil. The Portuguese version of this set lacked any Reverse Holofoil cards. The Japanese version also introduced the Reverse Holofoil, known as mirror cards (ミラーカード), from the English version. Each Japanese booster pack came with "
+ },
+ "hgss2": {
+  "name": "Unleashed",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Unleashed_(TCG)",
+  "note": "Bulbapedia: The Unleashed set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos."
+ },
+ "hgss3": {
+  "name": "Undaunted",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Undaunted_(TCG)",
+  "note": "Bulbapedia: All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. The Undaunted set is released in English, German, French, and Italian, with cards also available in Reverse Holofoil. All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. The Undaunted set is released in English, German, French, and Italian, with cards also available in Reverse Holofoil."
+ },
+ "hgss4": {
+  "name": "Triumphant",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Triumphant_(TCG)",
+  "note": "Bulbapedia: All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. The Triumphant set is released in English, German, French, and Italian, with cards also available in Reverse Holofoil. All cards in this Japanese set, including the Pokémon Prime cards but excluding all Pokémon LEGEND cards and Alph Lithograph, were also available in Reverse Holofoil. The Triumphant set is released in English, German, French, and Italian, with cards also available in Reverse Holofoil."
+ },
+ "lc": {
+  "name": "Legendary Collection",
+  "languages": {
+   "en": [
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Legendary_Collection_(TCG)",
+  "note": "Bulbapedia: Just like the Base Set 2 set, the Legendary Collection set is only released in English unlimited edition, with each card in the set also available as Reverse Foils. Just like the Base Set 2 set, the Legendary Collection set is only released in English unlimited edition, with each card in the set also available as Reverse Foils."
+ },
+ "me02": {
+  "name": "Phantasmal Flames",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Phantasmal_Flames_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: [1] In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "me02.5": {
+  "name": "Ascended Heroes",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ascended_Heroes_(TCG)",
+  "note": "Bulbapedia: Ascended Heroes is available in English, German, French, Italian, Spanish, and Portuguese."
+ },
+ "me03": {
+  "name": "Perfect Order",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Perfect_Order_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: [1] In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "me04": {
+  "name": "Chaos Rising",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Chaos_Rising_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: [1] All Rares and below of this expansion are also available as Reverse Holofoil versions."
+ },
+ "me05": {
+  "name": "Pitch Black",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Pitch_Black_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: [1] All Rares and below of this expansion are also available as Reverse Holofoil versions."
+ },
+ "neo1": {
+  "name": "Gold, Silver, to a New World...",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Gold,_Silver,_to_a_New_World..._(TCG)",
+  "note": "Bulbapedia: set is released in Japanese, all with rarity symbols."
+ },
+ "neo2": {
+  "name": "Crossing the Ruins...",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Crossing_the_Ruins..._(TCG)",
+  "note": "Bulbapedia: set is released in Japanese, all cards with rarity symbols."
+ },
+ "neo3": {
+  "name": "Awakening Legends",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Awakening_Legends_(TCG)",
+  "note": "Bulbapedia: The Awakening Legends set is released in Japanese, all cards with rarity symbols."
+ },
+ "neo4": {
+  "name": "Darkness, and to Light...",
+  "languages": {
+   "ja": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Darkness,_and_to_Light..._(TCG)",
+  "note": "Bulbapedia: set is released in Japanese, all cards with rarity symbols."
+ },
+ "pl1": {
+  "name": "Platinum",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Platinum_(TCG)",
+  "note": "Bulbapedia: The Platinum set is released in English, German, French, Italian, and Spanish. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. Cards in the English, German, French, and Italian sets were also available as Reverse Holos. The Spanish version of this set lacked any Reverse Holos. The Galactic's Conquest set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "pl2": {
+  "name": "Rising Rivals",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rising_Rivals_(TCG)",
+  "note": "Bulbapedia: The Rising Rivals set is released in English, German, French, and Italian, with cards also available as Reverse Holos. The Rising Rivals set is released in English, German, French, and Italian, with cards also available as Reverse Holos. The Bonds to the End of Time set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "pl3": {
+  "name": "Supreme Victors",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Supreme_Victors_(TCG)",
+  "note": "Bulbapedia: The Supreme Victors set is released in English, German, and French, with cards also available as Reverse Holos. The Supreme Victors set is released in English, German, and French, with cards also available as Reverse Holos. The Beat of the Frontier set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "pl4": {
+  "name": "Arceus",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Platinum:_Arceus_(TCG)",
+  "note": "Bulbapedia: The Arceus set is released in English, German, and Italian, with cards also available as Reverse Holos. The Arceus set is released in English, German, and Italian, with cards also available as Reverse Holos. The Advent of Arceus set is only released in Japanese, in both 1st and unlimited edition."
+ },
+ "pop1": {
+  "name": "POP Series 1",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_1_(TCG)",
+  "note": "Bulbapedia: The POP Series 1 set was released in English, German, French, and Italian."
+ },
+ "pop2": {
+  "name": "POP Series 2",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_2_(TCG)",
+  "note": "Bulbapedia: The POP Series 2 set was released in English, German, French, Italian, and Portuguese."
+ },
+ "pop3": {
+  "name": "POP Series 3",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_3_(TCG)",
+  "note": "Bulbapedia: The POP Series 3 set was released in English, German, French, Italian, Spanish, and Portuguese."
+ },
+ "pop4": {
+  "name": "POP Series 4",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_4_(TCG)",
+  "note": "Bulbapedia: The POP Series 4 set was released in English, German, French, Italian, and Portuguese."
+ },
+ "pop5": {
+  "name": "POP Series 5",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_5_(TCG)",
+  "note": "Bulbapedia: The POP Series 5 set was released in English, German, and Italian."
+ },
+ "pop6": {
+  "name": "POP Series 6",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_6_(TCG)",
+  "note": "Bulbapedia: The POP Series 6 set was released in English, German, and Italian."
+ },
+ "pop7": {
+  "name": "POP Series 7",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_7_(TCG)",
+  "note": "Bulbapedia: The POP Series 7 set was released in English, German, and Spanish."
+ },
+ "pop8": {
+  "name": "POP Series 8",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_8_(TCG)",
+  "note": "Bulbapedia: The POP Series 8 set was released in English, German, and Italian."
+ },
+ "pop9": {
+  "name": "POP Series 9",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/POP_Series_9_(TCG)",
+  "note": "Bulbapedia: The POP Series 9 set was released in English, German, and Italian."
+ },
+ "rc": {
+  "name": "Radiant Collection",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Legendary_Treasures_(TCG)",
+  "note": "Bulbapedia: The Legendary Treasures set is only released in English. The English, Japanese, and Korean sets also had cards available as Reverse Holos. The English, Japanese, and Korean sets also had cards available as Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "ru1": {
+  "name": "Pokémon Rumble",
+  "languages": {
+   "en": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Rumble_(TCG)",
+  "note": "Bulbapedia: The Pokémon Rumble set was exclusively released in English."
+ },
+ "si1": {
+  "name": "Southern Islands",
+  "languages": {
+   "en": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Southern_Islands_(TCG)",
+  "note": "Bulbapedia: The Southern Islands Collection was only released in English."
+ },
+ "sm1": {
+  "name": "Sun & Moon",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_(TCG)",
+  "note": "Bulbapedia: The Sun & Moon set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Sun & Moon set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm10": {
+  "name": "Unbroken Bonds",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Unbroken_Bonds_(TCG)",
+  "note": "Bulbapedia: The Unbroken Bonds set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos. The Unbroken Bonds set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos."
+ },
+ "sm11": {
+  "name": "Unified Minds",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Unified_Minds_(TCG)",
+  "note": "Bulbapedia: The Unified Minds set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos. The Unified Minds set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos."
+ },
+ "sm12": {
+  "name": "Cosmic Eclipse",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Cosmic_Eclipse_(TCG)",
+  "note": "Bulbapedia: The Cosmic Eclipse set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos. The Cosmic Eclipse set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos."
+ },
+ "sm2": {
+  "name": "Guardians Rising",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Guardians_Rising_(TCG)",
+  "note": "Bulbapedia: The Guardians Rising set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Guardians Rising set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm3": {
+  "name": "Burning Shadows",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Burning_Shadows_(TCG)",
+  "note": "Bulbapedia: The Burning Shadows set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Burning Shadows set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm4": {
+  "name": "Crimson Invasion",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Crimson_Invasion_(TCG)",
+  "note": "Bulbapedia: The Crimson Invasion set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Crimson Invasion set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm5": {
+  "name": "Ultra Prism",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ultra_Prism_(TCG)",
+  "note": "Bulbapedia: The Ultra Prism set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Ultra Prism set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm6": {
+  "name": "Forbidden Light",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Forbidden_Light_(TCG)",
+  "note": "Bulbapedia: The Forbidden Light set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Forbidden Light set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm7": {
+  "name": "Celestial Storm",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Celestial_Storm_(TCG)",
+  "note": "Bulbapedia: The Celestial Storm set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Celestial Storm set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm8": {
+  "name": "Lost Thunder",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Lost_Thunder_(TCG)",
+  "note": "Bulbapedia: The Lost Thunder set is released in English, German, French, Italian, Spanish and Portuguese, with cards also available as Reverse Holos. The Lost Thunder set is released in English, German, French, Italian, Spanish and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sm9": {
+  "name": "Team Up",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Team_Up_(TCG)",
+  "note": "Bulbapedia: The Team Up set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Team Up set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "sv01": {
+  "name": "Scarlet & Violet",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Scarlet_%26_Violet_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv02": {
+  "name": "Paldea Evolved",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "ja": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Paldea_Evolved_(TCG)",
+  "note": "Bulbapedia: It was released in English on June 9, 2023 and in Japanese on April 14, 2023. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv03": {
+  "name": "Obsidian Flames",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Obsidian_Flames_(TCG)",
+  "note": "Bulbapedia: Obsidian Flames is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv03.5": {
+  "name": "151",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/151_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv04": {
+  "name": "Paradox Rift",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Paradox_Rift_(TCG)",
+  "note": "Bulbapedia: Paradox Rift is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv04.5": {
+  "name": "Paldean Fates",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Paldean_Fates_(TCG)",
+  "note": "Bulbapedia: It is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions. All Asian languages also have regular cards available as Reverse Holofoils."
+ },
+ "sv05": {
+  "name": "Temporal Forces",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Temporal_Forces_(TCG)",
+  "note": "Bulbapedia: Temporal Forces is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv06": {
+  "name": "Twilight Masquerade",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Twilight_Masquerade_(TCG)",
+  "note": "Bulbapedia: Twilight Masquerade is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv06.5": {
+  "name": "Shrouded Fable",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Shrouded_Fable_(TCG)",
+  "note": "Bulbapedia: Shrouded Fable is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv07": {
+  "name": "Stellar Crown",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Crown_(TCG)",
+  "note": "Bulbapedia: Stellar Crown is available in English, German, French, Italian, Spanish and Portuguese. In the English set and the languages following the English set structure, all Rares and below are also available as Reverse Holofoil versions."
+ },
+ "sv08": {
+  "name": "Surging Sparks",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Surging_Sparks_(TCG)",
+  "note": "Bulbapedia: Surging Sparks is available in English, German, French, Italian, Spanish, and Portuguese with all Rares and below also available as Reverse Holofoil versions."
+ },
+ "sv08.5": {
+  "name": "Prismatic Evolutions",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Prismatic_Evolutions_(TCG)",
+  "note": "Bulbapedia: Prismatic Evolutions is available in English, German, French, Italian, Spanish, and Portuguese."
+ },
+ "sv09": {
+  "name": "Journey Together",
+  "languages": {
+   "es-mx": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Journey_Together_(TCG)",
+  "note": "Bulbapedia: Journey Together is available in English, German, French, Italian, Spanish from Spain, Portuguese, and—for the first time in Pokémon TCG history—Latin American Spanish, with all Rares and below also available as Reverse Holofoil versions."
+ },
+ "sv10": {
+  "name": "Destined Rivals",
+  "languages": {
+   "es-mx": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Destined_Rivals_(TCG)",
+  "note": "Bulbapedia: Destined Rivals is available in English, German, French, Italian, Spanish, Portuguese, and Latin American Spanish, with all Rares and below also available as Reverse Holofoil versions."
+ },
+ "swsh1": {
+  "name": "Sword & Shield",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Sword_%26_Shield_(TCG)",
+  "note": "Bulbapedia: The Sword & Shield set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos. The Sword & Shield set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos."
+ },
+ "swsh10": {
+  "name": "Astral Radiance",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Astral_Radiance_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh10.5": {
+  "name": "Pokémon GO",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_GO_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh10tg": {
+  "name": "Astral Radiance Trainer Gallery",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Astral_Radiance_(TCG)",
+  "defaultVariants": [
+   "Holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh11": {
+  "name": "Lost Origin",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Lost_Origin_(TCG)",
+  "note": "Bulbapedia: Lost Origin is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh11tg": {
+  "name": "Lost Origin Trainer Gallery",
+  "languages": {
+   "en": [
+    "Holo"
+   ],
+   "de": [
+    "Holo"
+   ],
+   "fr": [
+    "Holo"
+   ],
+   "it": [
+    "Holo"
+   ],
+   "es": [
+    "Holo"
+   ],
+   "pt": [
+    "Holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Lost_Origin_(TCG)",
+  "defaultVariants": [
+   "Holo"
+  ],
+  "note": "Bulbapedia: Lost Origin is available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh12": {
+  "name": "Silver Tempest",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Silver_Tempest_(TCG)",
+  "note": "Bulbapedia: Silver Tempest was available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh12.5": {
+  "name": "Crown Zenith",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Crown_Zenith_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh12.5gg": {
+  "name": "Crown Zenith Galarian Gallery",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Crown_Zenith_(TCG)",
+  "defaultVariants": [
+   "Holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh12tg": {
+  "name": "Silver Tempest Trainer Gallery",
+  "languages": {
+   "en": [
+    "Holo"
+   ],
+   "de": [
+    "Holo"
+   ],
+   "fr": [
+    "Holo"
+   ],
+   "it": [
+    "Holo"
+   ],
+   "es": [
+    "Holo"
+   ],
+   "pt": [
+    "Holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Silver_Tempest_(TCG)",
+  "defaultVariants": [
+   "Holo"
+  ],
+  "note": "Bulbapedia: Silver Tempest was available in English, German, French, Italian, Spanish, and Portuguese. In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh2": {
+  "name": "Rebel Clash",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Rebel_Clash_(TCG)",
+  "note": "Bulbapedia: The Rebel Clash set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos. The Rebel Clash set is released in English, German, French, Italian, Spanish, and Portuguese, with cards in those languages also available as Reverse Holos."
+ },
+ "swsh3": {
+  "name": "Darkness Ablaze",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Darkness_Ablaze_(TCG)",
+  "note": "Bulbapedia: The Darkness Ablaze set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Darkness Ablaze set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "swsh4": {
+  "name": "Vivid Voltage",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Vivid_Voltage_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh4.5": {
+  "name": "Shining Fates",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Shining_Fates_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh4.5sv": {
+  "name": "Shining Fates Shiny Vault",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Shining_Fates_(TCG)",
+  "defaultVariants": [
+   "Holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh5": {
+  "name": "Battle Styles",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Battle_Styles_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh6": {
+  "name": "Chilling Reign",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Chilling_Reign_(TCG)",
+  "note": "Bulbapedia: The Chilling Reign set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Chilling Reign set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "swsh7": {
+  "name": "Evolving Skies",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Evolving_Skies_(TCG)",
+  "note": "Bulbapedia: The Evolving Skies set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Evolving Skies set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "swsh8": {
+  "name": "Fusion Strike",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "pt": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Fusion_Strike_(TCG)",
+  "note": "Bulbapedia: The Fusion Strike set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos. The Fusion Strike set is released in English, German, French, Italian, Spanish, and Portuguese, with cards also available as Reverse Holos."
+ },
+ "swsh9": {
+  "name": "Brilliant Stars",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Brilliant_Stars_(TCG)",
+  "defaultVariants": [
+   "Normaal",
+   "Reverse holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "swsh9tg": {
+  "name": "Brilliant Stars Trainer Gallery",
+  "languages": {},
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Brilliant_Stars_(TCG)",
+  "defaultVariants": [
+   "Holo"
+  ],
+  "note": "Bulbapedia: In the English set and the languages following the English set structure, all Holofoil Rares and below are also available as Reverse Holofoil versions."
+ },
+ "xy0": {
+  "name": "Kalos Starter Set",
+  "languages": {
+   "en": [
+    "Normaal"
+   ],
+   "de": [
+    "Normaal"
+   ],
+   "fr": [
+    "Normaal"
+   ],
+   "it": [
+    "Normaal"
+   ],
+   "es": [
+    "Normaal"
+   ],
+   "pt": [
+    "Normaal"
+   ],
+   "ru": [
+    "Normaal"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Kalos_Starter_Set_(TCG)",
+  "note": "Bulbapedia: The Kalos Starter Set is released in English, German, French, Italian, Spanish, Portuguese and Russian."
+ },
+ "xy1": {
+  "name": "XY",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/XY_(TCG)",
+  "note": "Bulbapedia: The XY set is released in English, German, French, Italian, Spanish, Portuguese, and Russian. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "xy10": {
+  "name": "Fates Collide",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Fates_Collide_(TCG)",
+  "note": "Bulbapedia: The Fates Collide set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "xy11": {
+  "name": "Steam Siege",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Steam_Siege_(TCG)",
+  "note": "Bulbapedia: The Steam Siege set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "xy12": {
+  "name": "Evolutions",
+  "languages": {
+   "en": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "de": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "fr": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "it": [
+    "Normaal",
+    "Reverse holo"
+   ],
+   "es": [
+    "Normaal",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Evolutions_(TCG)",
+  "note": "Bulbapedia: The Evolutions set is released in English, German, French, Italian, and Spanish, with cards also available as Reverse Holos. The Evolutions set is released in English, German, French, Italian, and Spanish, with cards also available as Reverse Holos."
+ },
+ "xy2": {
+  "name": "Flashfire",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Flashfire_(TCG)",
+  "note": "Bulbapedia: The Flashfire set is released in English, German, French, Italian, Spanish, Portuguese, and Russian. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "xy3": {
+  "name": "Furious Fists",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Furious_Fists_(TCG)",
+  "note": "Bulbapedia: The Furious Fists set is released in English, German, French, Italian, Spanish, Portuguese, and Russian. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "xy4": {
+  "name": "Phantom Forces",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Phantom_Forces_(TCG)",
+  "note": "Bulbapedia: The Phantom Forces set is released in English, German, French, Italian, Spanish, Portuguese, and Russian. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "xy5": {
+  "name": "Primal Clash",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Primal_Clash_(TCG)",
+  "note": "Bulbapedia: The Primal Clash set is released in English, German, French, Italian, Spanish, Portuguese, and Russian. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only available in unlimited edition."
+ },
+ "xy6": {
+  "name": "Roaring Skies",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Roaring_Skies_(TCG)",
+  "note": "Bulbapedia: The Roaring Skies set is released in English, German, French, Italian, Spanish, Portuguese, and Russian (the Russian version released on November 20, 2015). Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only availab"
+ },
+ "xy7": {
+  "name": "Ancient Origins",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/Ancient_Origins_(TCG)",
+  "note": "Bulbapedia: The Ancient Origins set is released in English, German, French, Italian, Spanish, Portuguese, and Russian. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ },
+ "xy8": {
+  "name": "BREAKthrough",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ],
+   "ru": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/BREAKthrough_(TCG)",
+  "note": "Bulbapedia: The BREAKthrough set is released in English, German, French, Italian, Spanish, Portuguese, and Russian (Russian set released on 23rd of November 2016). Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, Spanish, and Russian sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese sets are available in both 1st and unlimited edition, and the Korean sets are only availabl"
+ },
+ "xy9": {
+  "name": "BREAKpoint",
+  "languages": {
+   "en": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "de": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "fr": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "it": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "es": [
+    "1st Edition",
+    "Unlimited",
+    "Reverse holo"
+   ],
+   "pt": [
+    "1st Edition",
+    "Unlimited"
+   ]
+  },
+  "source": "https://bulbapedia.bulbagarden.net/wiki/BREAKpoint_(TCG)",
+  "note": "Bulbapedia: The BREAKpoint set is released in English, German, French, Italian, Spanish, and Portuguese. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. Cards in the English, German, French, Italian, and Spanish sets were also available as Reverse Holos. The Portuguese version of this set lacked any Reverse Holos. The Japanese set is available in both 1st and unlimited edition, and the Korean set is only available in unlimited edition."
+ }
+}

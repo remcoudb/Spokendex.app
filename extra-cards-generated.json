@@ -1,0 +1,903 @@
+{
+ "130": [
+  {
+   "id": "ADV3-014",
+   "set": {
+    "id": "ADV3",
+    "name": "Rulers of the Heavens",
+    "releaseDate": "2003-06-25",
+    "equivalent": "EX Dragon"
+   },
+   "localId": "014",
+   "number": "014/054",
+   "name": "Gyarados",
+   "rarity": "Rare",
+   "languages": {
+    "ja": [
+     "1st Edition",
+     "Unlimited"
+    ]
+   },
+   "counterpart": "ex3-32",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(EX_Dragon_32)"
+  },
+  {
+   "id": "x-secret-of-the-lakes-",
+   "set": {
+    "id": "x-secret-of-the-lakes",
+    "name": "Secret of the Lakes",
+    "releaseDate": "2007-08-01",
+    "equivalent": "Mysterious Treasures"
+   },
+   "localId": "—",
+   "number": "—",
+   "name": "Gyarados",
+   "rarity": "Rare",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "dp2-26",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Mysterious_Treasures_26)"
+  },
+  {
+   "id": "x-intense-fight-in-the-destroyed-sky-017",
+   "set": {
+    "id": "x-intense-fight-in-the-destroyed-sky",
+    "name": "Intense Fight in the Destroyed Sky",
+    "releaseDate": "2008-11-01",
+    "equivalent": "Stormfront"
+   },
+   "localId": "017",
+   "number": "017/092",
+   "name": "Gyarados",
+   "rarity": "Rare",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "dp7-19",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Stormfront_19)"
+  },
+  {
+   "id": "x-melee-pok-mon-scramble-006",
+   "set": {
+    "id": "x-melee-pok-mon-scramble",
+    "name": "Melee! Pokémon Scramble",
+    "releaseDate": "2009-12-02",
+    "equivalent": "Pokémon Rumble"
+   },
+   "localId": "006",
+   "number": "006/016",
+   "name": "Gyarados",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ru1-6",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pok%C3%A9mon_Rumble_6)"
+  },
+  {
+   "id": "L1b-023",
+   "set": {
+    "id": "L1b",
+    "name": "SoulSilver Collection",
+    "releaseDate": "2009-10-09",
+    "equivalent": "HeartGold & SoulSilver"
+   },
+   "localId": "023",
+   "number": "023/070",
+   "name": "Gyarados",
+   "rarity": "Rare Holo",
+   "languages": {
+    "ja": [
+     "1st Edition",
+     "Reverse holo"
+    ]
+   },
+   "counterpart": "hgss1-4",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(HeartGold_%26_SoulSilver_4)"
+  },
+  {
+   "id": "x-l-p-promotional-cards-004",
+   "set": {
+    "id": "x-l-p-promotional-cards",
+    "name": "L-P Promotional cards",
+    "releaseDate": "2010-02-10",
+    "equivalent": "HeartGold & SoulSilver"
+   },
+   "localId": "004",
+   "number": "004/L-P",
+   "name": "Gyarados",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "hgss1-123",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(HeartGold_%26_SoulSilver_123)"
+  },
+  {
+   "id": "x-garchomp-half-deck-002",
+   "set": {
+    "id": "x-garchomp-half-deck",
+    "name": "Garchomp Half Deck",
+    "releaseDate": "2012-08-15",
+    "equivalent": "Dragons Exalted"
+   },
+   "localId": "002",
+   "number": "002/015",
+   "name": "Gyarados",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "bw6-24",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Dragons_Exalted_24)"
+  },
+  {
+   "id": "x-ex-battle-boost-023",
+   "set": {
+    "id": "x-ex-battle-boost",
+    "name": "EX Battle Boost",
+    "releaseDate": "2013-11-06",
+    "equivalent": "Legendary Treasures"
+   },
+   "localId": "023",
+   "number": "023/093",
+   "name": "Gyarados",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "bw11-31",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Legendary_Treasures_31)"
+  },
+  {
+   "id": "XY7-020",
+   "set": {
+    "id": "XY7",
+    "name": "Bandit Ring",
+    "releaseDate": "2015-06-20",
+    "equivalent": "Ancient Origins"
+   },
+   "localId": "020",
+   "number": "020/081",
+   "name": "Gyarados",
+   "rarity": "U",
+   "languages": {
+    "ja": [
+     "1st Edition",
+     "Unlimited"
+    ],
+    "ko": [
+     "Unlimited"
+    ]
+   },
+   "counterpart": "xy7-20",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Ancient_Origins_20)"
+  },
+  {
+   "id": "XY7-021",
+   "set": {
+    "id": "XY7",
+    "name": "Bandit Ring",
+    "releaseDate": "2015-06-20",
+    "equivalent": "Ancient Origins"
+   },
+   "localId": "021",
+   "number": "021/081",
+   "name": "Gyarados",
+   "rarity": "R",
+   "languages": {
+    "ja": [
+     "1st Edition",
+     "Unlimited"
+    ],
+    "ko": [
+     "Unlimited"
+    ]
+   },
+   "counterpart": "xy7-21",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Ancient_Origins_21)"
+  },
+  {
+   "id": "CP6-032",
+   "set": {
+    "id": "CP6",
+    "name": "Expansion Pack 20th Anniversary",
+    "releaseDate": "2016-09-16",
+    "equivalent": "Evolutions"
+   },
+   "localId": "032",
+   "number": "032/087",
+   "name": "Gyarados",
+   "rarity": "R",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ],
+    "ko": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "xy12-34",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Evolutions_34)"
+  },
+  {
+   "id": "S1a-021",
+   "set": {
+    "id": "S1a",
+    "name": "VMAX Rising",
+    "releaseDate": "2020-02-07",
+    "equivalent": "Rebel Clash"
+   },
+   "localId": "021",
+   "number": "021/070",
+   "name": "Gyarados",
+   "rarity": "R",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ],
+    "ko": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "swsh2-40",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Rebel_Clash_40)"
+  },
+  {
+   "id": "S10b-022",
+   "set": {
+    "id": "S10b",
+    "name": "Pokémon GO",
+    "releaseDate": "2022-06-17",
+    "equivalent": "Pokémon GO"
+   },
+   "localId": "022",
+   "number": "022/071",
+   "name": "Gyarados",
+   "rarity": "R",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "swsh10.5-022",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pok%C3%A9mon_GO_22)"
+  },
+  {
+   "id": "x-silver-deck-kit-004",
+   "set": {
+    "id": "x-silver-deck-kit",
+    "name": "Silver Deck Kit",
+    "releaseDate": "2004-11-01",
+    "equivalent": "EX Team Rocket Returns"
+   },
+   "localId": "004",
+   "number": "004/020",
+   "name": "Dark Gyarados",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "ex7-36",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Dark_Gyarados_(EX_Team_Rocket_Returns_36)"
+  },
+  {
+   "id": "x-galactic-s-conquest-028",
+   "set": {
+    "id": "x-galactic-s-conquest",
+    "name": "Galactic's Conquest",
+    "releaseDate": "2009-02-11",
+    "equivalent": "Platinum"
+   },
+   "localId": "028",
+   "number": "028/096",
+   "name": "Gyarados G",
+   "rarity": "Rare",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "pl1-30",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_G_(Platinum_30)"
+  },
+  {
+   "id": "XY9-018",
+   "set": {
+    "id": "XY9",
+    "name": "Rage of the Broken Heavens",
+    "releaseDate": "2015-12-11",
+    "equivalent": "BREAKpoint"
+   },
+   "localId": "018",
+   "number": "018/080",
+   "name": "Gyarados EX",
+   "rarity": "RR",
+   "languages": {
+    "ja": [
+     "Holo"
+    ],
+    "ko": [
+     "Holo"
+    ]
+   },
+   "counterpart": "xy9-26",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados-EX_(BREAKpoint_26)"
+  },
+  {
+   "id": "XY9-019",
+   "set": {
+    "id": "XY9",
+    "name": "Rage of the Broken Heavens",
+    "releaseDate": "2015-12-11",
+    "equivalent": "BREAKpoint"
+   },
+   "localId": "019",
+   "number": "019/080",
+   "name": "Gyarados",
+   "rarity": "RR",
+   "languages": {
+    "ja": [
+     "Holo"
+    ],
+    "ko": [
+     "Holo"
+    ]
+   },
+   "counterpart": "xy9-27",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon-EX_(TCG)#Mega_Evolution_Pokémon"
+  },
+  {
+   "id": "x-sun-moon-family-pok-mon-card-game-015",
+   "set": {
+    "id": "x-sun-moon-family-pok-mon-card-game",
+    "name": "Sun & Moon Family Pokémon Card Game",
+    "releaseDate": "2019-08-23",
+    "equivalent": "Hidden Fates"
+   },
+   "localId": "015",
+   "number": "015/051",
+   "name": "Gyarados GX",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Holo"
+    ]
+   },
+   "counterpart": "sm115-16",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados-GX_(Hidden_Fates_16)"
+  },
+  {
+   "id": "S7R-020",
+   "set": {
+    "id": "S7R",
+    "name": "Blue Sky Stream",
+    "releaseDate": "2021-07-09",
+    "equivalent": "Evolving Skies"
+   },
+   "localId": "020",
+   "number": "020/067",
+   "name": "Gyarados V",
+   "rarity": "RR",
+   "languages": {
+    "ja": [
+     "Holo"
+    ],
+    "ko": [
+     "Holo"
+    ],
+    "zh-tw": [
+     "Holo"
+    ],
+    "th": [
+     "Holo"
+    ],
+    "id": [
+     "Holo"
+    ]
+   },
+   "counterpart": "swsh7-28",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_V_(Evolving_Skies_28)"
+  },
+  {
+   "id": "S7R-021",
+   "set": {
+    "id": "S7R",
+    "name": "Blue Sky Stream",
+    "releaseDate": "2021-07-09",
+    "equivalent": "Evolving Skies"
+   },
+   "localId": "021",
+   "number": "021/067",
+   "name": "Gyarados VMAX",
+   "rarity": "RRR",
+   "languages": {
+    "ja": [
+     "Holo"
+    ],
+    "ko": [
+     "Holo"
+    ],
+    "zh-tw": [
+     "Holo"
+    ],
+    "th": [
+     "Holo"
+    ],
+    "id": [
+     "Holo"
+    ]
+   },
+   "counterpart": "swsh7-29",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Gyarados_VMAX_(Evolving_Skies_29)"
+  }
+ ],
+ "131": [
+  {
+   "id": "x-expansion-sheet-2-",
+   "set": {
+    "id": "x-expansion-sheet-2",
+    "name": "Expansion Sheet 2",
+    "releaseDate": null,
+    "equivalent": null
+   },
+   "localId": "—",
+   "number": "—",
+   "name": "Lapras",
+   "rarity": "Common",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": null,
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Vending_S2)"
+  },
+  {
+   "id": "x-southern-islands-",
+   "set": {
+    "id": "x-southern-islands",
+    "name": "Southern Islands",
+    "releaseDate": "2001-07-31",
+    "equivalent": "Southern Islands"
+   },
+   "localId": "—",
+   "number": "—",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "si1-12",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Southern_Islands_12)"
+  },
+  {
+   "id": "x-dawn-dash-",
+   "set": {
+    "id": "x-dawn-dash",
+    "name": "Dawn Dash",
+    "releaseDate": "2008-02-01",
+    "equivalent": "Great Encounters"
+   },
+   "localId": "—",
+   "number": "—",
+   "name": "Lapras",
+   "rarity": "Rare",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "dp4-21",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Great_Encounters_21)"
+  },
+  {
+   "id": "x-palkia-half-deck-001",
+   "set": {
+    "id": "x-palkia-half-deck",
+    "name": "Palkia Half Deck",
+    "releaseDate": "2009-02-11",
+    "equivalent": "Platinum"
+   },
+   "localId": "001",
+   "number": "001/013",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "pl1-79",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Platinum_79)"
+  },
+  {
+   "id": "L1a-021",
+   "set": {
+    "id": "L1a",
+    "name": "HeartGold Collection",
+    "releaseDate": "2009-10-09",
+    "equivalent": "HeartGold & SoulSilver"
+   },
+   "localId": "021",
+   "number": "021/070",
+   "name": "Lapras",
+   "rarity": "Rare",
+   "languages": {
+    "ja": [
+     "1st Edition",
+     "Reverse holo"
+    ]
+   },
+   "counterpart": "hgss1-24",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(HeartGold_%26_SoulSilver_24)"
+  },
+  {
+   "id": "x-l-p-promotional-cards-058",
+   "set": {
+    "id": "x-l-p-promotional-cards",
+    "name": "L-P Promotional cards",
+    "releaseDate": "2010-02-11",
+    "equivalent": "HGSS Black Star Promos"
+   },
+   "localId": "058",
+   "number": "058/L-P",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "hgssp-HGSS14",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(HGSS_Promo_14)"
+  },
+  {
+   "id": "x-hail-blizzard-015",
+   "set": {
+    "id": "x-hail-blizzard",
+    "name": "Hail Blizzard",
+    "releaseDate": "2012-02-08",
+    "equivalent": "Next Destinies"
+   },
+   "localId": "015",
+   "number": "015/052",
+   "name": "Lapras",
+   "rarity": "U",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "bw4-25",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Next_Destinies_25)"
+  },
+  {
+   "id": "x-reshiram-ex-battle-strength-deck-005",
+   "set": {
+    "id": "x-reshiram-ex-battle-strength-deck",
+    "name": "Reshiram-EX Battle Strength Deck",
+    "releaseDate": "2012-02-08",
+    "equivalent": "Next Destinies"
+   },
+   "localId": "005",
+   "number": "005/052",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "bw4-26",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Next_Destinies_26)"
+  },
+  {
+   "id": "x-megalo-cannon-013",
+   "set": {
+    "id": "x-megalo-cannon",
+    "name": "Megalo Cannon",
+    "releaseDate": "2013-08-14",
+    "equivalent": "Plasma Blast"
+   },
+   "localId": "013",
+   "number": "013/076",
+   "name": "Lapras",
+   "rarity": "C",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "bw10-17",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Plasma_Blast_17)"
+  },
+  {
+   "id": "XY1b-018",
+   "set": {
+    "id": "XY1b",
+    "name": "Collection Y",
+    "releaseDate": "2013-12-13",
+    "equivalent": "XY"
+   },
+   "localId": "018",
+   "number": "018/060",
+   "name": "Lapras",
+   "rarity": "R",
+   "languages": {
+    "ja": [
+     "1st Edition",
+     "Unlimited"
+    ],
+    "ko": [
+     "Unlimited"
+    ]
+   },
+   "counterpart": "xy1-35",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(XY_35)"
+  },
+  {
+   "id": "x-golduck-break-palkia-ex-combo-deck-006",
+   "set": {
+    "id": "x-golduck-break-palkia-ex-combo-deck",
+    "name": "Golduck BREAK + Palkia-EX Combo Deck",
+    "releaseDate": "2016-02-03",
+    "equivalent": "BREAKpoint"
+   },
+   "localId": "006",
+   "number": "006/016",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "xy9-28",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(BREAKpoint_28)"
+  },
+  {
+   "id": "x-sun-moon-family-pok-mon-card-game-016",
+   "set": {
+    "id": "x-sun-moon-family-pok-mon-card-game",
+    "name": "Sun & Moon Family Pokémon Card Game",
+    "releaseDate": "2019-08-23",
+    "equivalent": "Hidden Fates"
+   },
+   "localId": "016",
+   "number": "016/051",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "sm115-17",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Hidden_Fates_17)"
+  },
+  {
+   "id": "x-v-starter-set-water-005",
+   "set": {
+    "id": "x-v-starter-set-water",
+    "name": "V Starter Set Water",
+    "releaseDate": "2020-02-07",
+    "equivalent": "Sword & Shield"
+   },
+   "localId": "005",
+   "number": "005/023",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "swsh1-48",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Sword_%26_Shield_48)"
+  },
+  {
+   "id": "x-inteleon-vmax-high-class-deck-001",
+   "set": {
+    "id": "x-inteleon-vmax-high-class-deck",
+    "name": "Inteleon VMAX High-Class Deck",
+    "releaseDate": "2021-11-12",
+    "equivalent": "Fusion Strike"
+   },
+   "localId": "001",
+   "number": "001/022",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "swsh8-54",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Fusion_Strike_54)"
+  },
+  {
+   "id": "S10b-023",
+   "set": {
+    "id": "S10b",
+    "name": "Pokémon GO",
+    "releaseDate": "2022-06-17",
+    "equivalent": "Pokémon GO"
+   },
+   "localId": "023",
+   "number": "023/071",
+   "name": "Lapras",
+   "rarity": "R",
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "swsh10.5-023",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pok%C3%A9mon_GO_23)"
+  },
+  {
+   "id": "x-water-greninja-ex-start-deck-022",
+   "set": {
+    "id": "x-water-greninja-ex-start-deck",
+    "name": "Water Greninja ex Start Deck",
+    "releaseDate": "2023-08-11",
+    "equivalent": "Obsidian Flames"
+   },
+   "localId": "022",
+   "number": "022/139",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "sv03-045",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Obsidian_Flames_45)"
+  },
+  {
+   "id": "x-pok-mon-card-game-battle-academy-012",
+   "set": {
+    "id": "x-pok-mon-card-game-battle-academy",
+    "name": "Pokémon Card Game Battle Academy",
+    "releaseDate": "2024-09-13",
+    "equivalent": "Stellar Crown"
+   },
+   "localId": "012",
+   "number": "012/066",
+   "name": "Lapras",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Normaal"
+    ]
+   },
+   "counterpart": "sv07-031",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Stellar_Crown_31)"
+  },
+  {
+   "id": "x-mudkip-constructed-starter-deck-001",
+   "set": {
+    "id": "x-mudkip-constructed-starter-deck",
+    "name": "Mudkip Constructed Starter Deck",
+    "releaseDate": "2003-07-01",
+    "equivalent": "EX Ruby & Sapphire"
+   },
+   "localId": "001",
+   "number": "001/019",
+   "name": "Lapras ex",
+   "rarity": null,
+   "languages": {
+    "ja": [
+     "Holo"
+    ]
+   },
+   "counterpart": "ex1-99",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_ex_(EX_Ruby_%26_Sapphire_99)"
+  },
+  {
+   "id": "S1W-014",
+   "set": {
+    "id": "S1W",
+    "name": "Sword",
+    "releaseDate": "2019-12-06",
+    "equivalent": "Sword & Shield"
+   },
+   "localId": "014",
+   "number": "014/060",
+   "name": "Lapras V",
+   "rarity": "RR",
+   "languages": {
+    "ja": [
+     "Holo"
+    ],
+    "ko": [
+     "Holo"
+    ]
+   },
+   "counterpart": "swsh1-49",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_V_(Sword_%26_Shield_49)"
+  },
+  {
+   "id": "S1W-015",
+   "set": {
+    "id": "S1W",
+    "name": "Sword",
+    "releaseDate": "2019-12-06",
+    "equivalent": "Sword & Shield"
+   },
+   "localId": "015",
+   "number": "015/060",
+   "name": "Lapras VMAX",
+   "rarity": "RRR",
+   "languages": {
+    "ja": [
+     "Holo"
+    ],
+    "ko": [
+     "Holo"
+    ]
+   },
+   "counterpart": "swsh1-50",
+   "note": "Automatisch aangevuld uit Bulbapedia's kaartenlijst; niet gevonden in TCGdex.",
+   "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_VMAX_(Sword_%26_Shield_50)"
+  }
+ ]
+}

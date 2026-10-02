@@ -1,0 +1,746 @@
+{
+  "ADV1": {
+    "name": "ADV Expansion Pack",
+    "equivalent": "EX Ruby & Sapphire"
+  },
+  "ADV2": {
+    "name": "Miracle of the Desert",
+    "equivalent": "EX Sandstorm"
+  },
+  "ADV3": {
+    "name": "Rulers of the Heavens",
+    "equivalent": "EX Dragon"
+  },
+  "ADV4": {
+    "name": "Magma VS Aqua: Two Ambitions",
+    "equivalent": "EX Team Magma vs Team Aqua"
+  },
+  "ADV5": {
+    "name": "Undone Seal",
+    "equivalent": "EX Hidden Legends"
+  },
+  "CP1": {
+    "name": "Magma Gang VS Aqua Gang: Double Crisis",
+    "equivalent": "Double Crisis"
+  },
+  "CP2": {
+    "name": "Legendary Shine Collection",
+    "equivalent": "BREAKthrough"
+  },
+  "CP3": {
+    "name": "PokéKyun Collection",
+    "equivalent": "Generations"
+  },
+  "CP4": {
+    "name": "Premium Champion Pack EX×M×BREAK",
+    "equivalent": null
+  },
+  "CP5": {
+    "name": "Cruel Traitor",
+    "equivalent": "Steam Siege"
+  },
+  "CP6": {
+    "name": "Expansion Pack 20th Anniversary",
+    "equivalent": "Evolutions"
+  },
+  "CS1.5": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS1a": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS1b": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS2.5": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS2a": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS2b": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS3.5": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS3D": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS3a": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS3b": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS4": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS4Da": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS4a": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CS4b": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "CSA": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "E1": {
+    "name": "Base Expansion Pack",
+    "equivalent": "Expedition Base Set"
+  },
+  "E2": {
+    "name": "The Town on No Map",
+    "equivalent": "Aquapolis"
+  },
+  "E3": {
+    "name": "Wind from the Sea",
+    "equivalent": "Aquapolis"
+  },
+  "E4": {
+    "name": "Split Earth",
+    "equivalent": "Skyridge"
+  },
+  "E5": {
+    "name": "Mysterious Mountains",
+    "equivalent": "Skyridge"
+  },
+  "L1a": {
+    "name": "HeartGold Collection",
+    "equivalent": "HeartGold & SoulSilver"
+  },
+  "L1b": {
+    "name": "SoulSilver Collection",
+    "equivalent": "HeartGold & SoulSilver"
+  },
+  "L2": {
+    "name": "Reviving Legends",
+    "equivalent": "Undaunted"
+  },
+  "L3": {
+    "name": "Clash at the Summit",
+    "equivalent": "Triumphant"
+  },
+  "LL": {
+    "name": "Lost Link",
+    "equivalent": "Triumphant / Call of Legends"
+  },
+  "M-P": {
+    "name": "MEGA Promo Cards",
+    "equivalent": "MEP Black Star Promos"
+  },
+  "M1L": {
+    "name": "Mega Brave",
+    "equivalent": "Mega Evolution"
+  },
+  "M1S": {
+    "name": "Mega Symphonia",
+    "equivalent": "Mega Evolution"
+  },
+  "M2": {
+    "name": "Inferno X",
+    "equivalent": "Phantasmal Flames"
+  },
+  "M2a": {
+    "name": "MEGA Dream ex",
+    "equivalent": "Ascended Heroes"
+  },
+  "M3": {
+    "name": "Nihil Zero",
+    "equivalent": "Perfect Order"
+  },
+  "M4": {
+    "name": "Ninja Spinner",
+    "equivalent": "Chaos Rising"
+  },
+  "M5": {
+    "name": "Abyss Eye",
+    "equivalent": "Pitch Black"
+  },
+  "M6": {
+    "name": "Storm Emeralda",
+    "equivalent": "Delta Reign"
+  },
+  "M6a": {
+    "name": "30th Celebration",
+    "equivalent": "30th Celebration"
+  },
+  "MC": {
+    "name": "Start Deck 100 Battle Collection",
+    "equivalent": null
+  },
+  "MF": {
+    "name": "30th Celebration",
+    "equivalent": "30th Celebration"
+  },
+  "PCG1": {
+    "name": "Flight of Legends",
+    "equivalent": "EX FireRed & LeafGreen"
+  },
+  "PCG10": {
+    "name": "World Champions Pack",
+    "equivalent": "EX Power Keepers"
+  },
+  "PCG2": {
+    "name": "Clash of the Blue Sky",
+    "equivalent": "EX Deoxys"
+  },
+  "PCG3": {
+    "name": "Rocket Gang Strikes Back",
+    "equivalent": "EX Team Rocket Returns"
+  },
+  "PCG4": {
+    "name": "Golden Sky, Silvery Ocean",
+    "equivalent": "EX Unseen Forces"
+  },
+  "PCG5": {
+    "name": "Mirage Forest",
+    "equivalent": "EX Legend Maker"
+  },
+  "PCG6": {
+    "name": "Holon Research Tower",
+    "equivalent": "EX Delta Species"
+  },
+  "PCG7": {
+    "name": "Holon Phantom",
+    "equivalent": "EX Holon Phantoms"
+  },
+  "PCG8": {
+    "name": "Miracle Crystal",
+    "equivalent": "EX Crystal Guardians"
+  },
+  "PCG9": {
+    "name": "Offense and Defense of the Furthest Ends",
+    "equivalent": "EX Dragon Frontiers"
+  },
+  "PMCG1": {
+    "name": "Expansion Pack",
+    "equivalent": "Base Set"
+  },
+  "PMCG2": {
+    "name": "Pokémon Jungle",
+    "equivalent": "Jungle"
+  },
+  "PMCG3": {
+    "name": "Mystery of the Fossils",
+    "equivalent": "Fossil"
+  },
+  "PMCG4": {
+    "name": "Rocket Gang",
+    "equivalent": "Team Rocket"
+  },
+  "PMCG5": {
+    "name": "Leaders' Stadium",
+    "equivalent": "Gym Heroes"
+  },
+  "PMCG6": {
+    "name": "Challenge from the Darkness",
+    "equivalent": "Gym Challenge"
+  },
+  "S10D": {
+    "name": "Time Gazer",
+    "equivalent": "Astral Radiance"
+  },
+  "S10P": {
+    "name": "Space Juggler",
+    "equivalent": "Astral Radiance"
+  },
+  "S10a": {
+    "name": "Dark Phantasma",
+    "equivalent": "Lost Origin"
+  },
+  "S10b": {
+    "name": "Pokémon GO",
+    "equivalent": "Pokémon GO"
+  },
+  "S11": {
+    "name": "Lost Abyss",
+    "equivalent": "Lost Origin"
+  },
+  "S11a": {
+    "name": "Incandescent Arcana",
+    "equivalent": "Silver Tempest"
+  },
+  "S12": {
+    "name": "Paradigm Trigger",
+    "equivalent": "Silver Tempest"
+  },
+  "S12a": {
+    "name": "VSTAR Universe",
+    "equivalent": "Crown Zenith"
+  },
+  "S1H": {
+    "name": "Shield",
+    "equivalent": "Sword & Shield"
+  },
+  "S1W": {
+    "name": "Sword",
+    "equivalent": "Sword & Shield"
+  },
+  "S1a": {
+    "name": "VMAX Rising",
+    "equivalent": "Rebel Clash"
+  },
+  "S2": {
+    "name": "Rebellion Crash",
+    "equivalent": "Rebel Clash"
+  },
+  "S2a": {
+    "name": "Explosive Walker",
+    "equivalent": "Darkness Ablaze"
+  },
+  "S3": {
+    "name": "Infinity Zone",
+    "equivalent": "Darkness Ablaze"
+  },
+  "S3a": {
+    "name": "Legendary Heartbeat",
+    "equivalent": "Vivid Voltage"
+  },
+  "S4": {
+    "name": "Amazing Volt Tackle",
+    "equivalent": "Vivid Voltage"
+  },
+  "S4a": {
+    "name": "Shiny Star V",
+    "equivalent": "Shining Fates"
+  },
+  "S5I": {
+    "name": "Single Strike Master",
+    "equivalent": "Battle Styles"
+  },
+  "S5R": {
+    "name": "Rapid Strike Master",
+    "equivalent": "Battle Styles"
+  },
+  "S5a": {
+    "name": "Peerless Fighters",
+    "equivalent": "Chilling Reign"
+  },
+  "S6H": {
+    "name": "Silver Lance",
+    "equivalent": "Chilling Reign"
+  },
+  "S6K": {
+    "name": "Jet-Black Spirit",
+    "equivalent": "Chilling Reign"
+  },
+  "S6a": {
+    "name": "Eevee Heroes",
+    "equivalent": "Fusion Strike / Evolving Skies"
+  },
+  "S7D": {
+    "name": "Skyscraping Perfection",
+    "equivalent": "Evolving Skies"
+  },
+  "S7R": {
+    "name": "Blue Sky Stream",
+    "equivalent": "Evolving Skies"
+  },
+  "S8": {
+    "name": "Fusion Arts",
+    "equivalent": "Fusion Strike"
+  },
+  "S8a": {
+    "name": "25th Anniversary Collection",
+    "equivalent": "Celebrations"
+  },
+  "S8b": {
+    "name": "VMAX Climax",
+    "equivalent": "Trainer Galleries"
+  },
+  "S9": {
+    "name": "Star Birth",
+    "equivalent": "Brilliant Stars"
+  },
+  "S9a": {
+    "name": "Battle Region",
+    "equivalent": "Astral Radiance / Lost Origin"
+  },
+  "SM0": {
+    "name": "Pikachu's New Friends",
+    "equivalent": null
+  },
+  "SM1+": {
+    "name": "Sun & Moon",
+    "equivalent": "Guardians Rising"
+  },
+  "SM10": {
+    "name": "Double Blaze",
+    "equivalent": "Unbroken Bonds"
+  },
+  "SM10a": {
+    "name": "GG End",
+    "equivalent": "Unified Minds"
+  },
+  "SM10b": {
+    "name": "Sky Legend",
+    "equivalent": "Hidden Fates / Unified Minds"
+  },
+  "SM11": {
+    "name": "Miracle Twin",
+    "equivalent": "Unified Minds"
+  },
+  "SM11a": {
+    "name": "Remix Bout",
+    "equivalent": "Cosmic Eclipse"
+  },
+  "SM11b": {
+    "name": "Dream League",
+    "equivalent": "Cosmic Eclipse"
+  },
+  "SM12": {
+    "name": "Alter Genesis",
+    "equivalent": "Cosmic Eclipse"
+  },
+  "SM12a": {
+    "name": "TAG TEAM GX: Tag All Stars",
+    "equivalent": null
+  },
+  "SM1M": {
+    "name": "Collection Moon",
+    "equivalent": "Sun & Moon"
+  },
+  "SM1S": {
+    "name": "Collection Sun",
+    "equivalent": "Sun & Moon"
+  },
+  "SM1p": {
+    "name": "Sun & Moon",
+    "equivalent": "Guardians Rising"
+  },
+  "SM2K": {
+    "name": "Islands Await You",
+    "equivalent": "Guardians Rising"
+  },
+  "SM2L": {
+    "name": "Alolan Moonlight",
+    "equivalent": "Guardians Rising"
+  },
+  "SM2p": {
+    "name": "Facing a New Trial",
+    "equivalent": "Burning Shadows"
+  },
+  "SM3+": {
+    "name": "Shining Legends",
+    "equivalent": "Shining Legends"
+  },
+  "SM3H": {
+    "name": "To Have Seen the Battle Rainbow",
+    "equivalent": "Burning Shadows"
+  },
+  "SM3N": {
+    "name": "Darkness that Consumes Light",
+    "equivalent": "Burning Shadows"
+  },
+  "SM3p": {
+    "name": "Shining Legends",
+    "equivalent": "Shining Legends"
+  },
+  "SM4+": {
+    "name": "GX Battle Boost",
+    "equivalent": "Ultra Prism"
+  },
+  "SM4A": {
+    "name": "Ultradimensional Beasts",
+    "equivalent": "Crimson Invasion"
+  },
+  "SM4S": {
+    "name": "Awakened Heroes",
+    "equivalent": "Crimson Invasion"
+  },
+  "SM4p": {
+    "name": "GX Battle Boost",
+    "equivalent": "Ultra Prism"
+  },
+  "SM5+": {
+    "name": "Ultra Force",
+    "equivalent": "Forbidden Light"
+  },
+  "SM5M": {
+    "name": "Ultra Moon",
+    "equivalent": "Ultra Prism"
+  },
+  "SM5S": {
+    "name": "Ultra Sun",
+    "equivalent": "Ultra Prism"
+  },
+  "SM5p": {
+    "name": "Ultra Force",
+    "equivalent": "Forbidden Light"
+  },
+  "SM6": {
+    "name": "Forbidden Light",
+    "equivalent": "Forbidden Light"
+  },
+  "SM6a": {
+    "name": "Dragon Storm",
+    "equivalent": "Dragon Majesty"
+  },
+  "SM6b": {
+    "name": "Champion Road",
+    "equivalent": "Celestial Storm"
+  },
+  "SM7": {
+    "name": "Sky-Splitting Charisma",
+    "equivalent": "Celestial Storm"
+  },
+  "SM7a": {
+    "name": "Thunderclap Spark",
+    "equivalent": "Lost Thunder"
+  },
+  "SM7b": {
+    "name": "Fairy Rise",
+    "equivalent": "Lost Thunder"
+  },
+  "SM8": {
+    "name": "Super-Burst Impact",
+    "equivalent": "Lost Thunder"
+  },
+  "SM8a": {
+    "name": "Dark Order",
+    "equivalent": "Team Up"
+  },
+  "SM8b": {
+    "name": "GX Ultra Shiny",
+    "equivalent": "Hidden Fates Shiny Vault"
+  },
+  "SM9": {
+    "name": "Tag Bolt",
+    "equivalent": "Team Up"
+  },
+  "SM9a": {
+    "name": "Night Unison",
+    "equivalent": "Unbroken Bonds"
+  },
+  "SM9b": {
+    "name": "Full Metal Wall",
+    "equivalent": "Unbroken Bonds"
+  },
+  "SMP2": {
+    "name": "Sky Legend",
+    "equivalent": "Hidden Fates / Unified Minds"
+  },
+  "SV-P": {
+    "name": "Scarlet & Violet Promo Cards",
+    "equivalent": "SVP Black Star Promos"
+  },
+  "SV10": {
+    "name": "Glory of the Rocket Gang",
+    "equivalent": "Destined Rivals"
+  },
+  "SV11B": {
+    "name": "Black Bolt",
+    "equivalent": "Black Bolt"
+  },
+  "SV11W": {
+    "name": "White Flare",
+    "equivalent": "White Flare"
+  },
+  "SV1S": {
+    "name": "Scarlet ex",
+    "equivalent": "Scarlet & Violet"
+  },
+  "SV1V": {
+    "name": "Violet ex",
+    "equivalent": "Scarlet & Violet"
+  },
+  "SV1a": {
+    "name": "Triplet Beat",
+    "equivalent": "Paldea Evolved"
+  },
+  "SV2D": {
+    "name": "Clay Burst",
+    "equivalent": "Paldea Evolved"
+  },
+  "SV2P": {
+    "name": "Snow Hazard",
+    "equivalent": "Paldea Evolved"
+  },
+  "SV2a": {
+    "name": "Pokémon Card 151",
+    "equivalent": "151"
+  },
+  "SV3": {
+    "name": "Ruler of the Black Flame",
+    "equivalent": "Obsidian Flames"
+  },
+  "SV3a": {
+    "name": "Raging Surf",
+    "equivalent": "Paradox Rift"
+  },
+  "SV4K": {
+    "name": "Ancient Roar",
+    "equivalent": "Paradox Rift"
+  },
+  "SV4M": {
+    "name": "Future Flash",
+    "equivalent": "Paradox Rift"
+  },
+  "SV4a": {
+    "name": "Raging Surf",
+    "equivalent": "Paradox Rift"
+  },
+  "SV5K": {
+    "name": "Wild Force",
+    "equivalent": "Temporal Forces"
+  },
+  "SV5M": {
+    "name": "Cyber Judge",
+    "equivalent": "Temporal Forces"
+  },
+  "SV5a": {
+    "name": "Crimson Haze",
+    "equivalent": "Twilight Masquerade"
+  },
+  "SV6": {
+    "name": "Transformation Mask",
+    "equivalent": "Twilight Masquerade"
+  },
+  "SV6a": {
+    "name": "Night Wanderer",
+    "equivalent": "Shrouded Fable"
+  },
+  "SV7": {
+    "name": "Stellar Miracle",
+    "equivalent": "Stellar Crown"
+  },
+  "SV7a": {
+    "name": "Paradise Dragona",
+    "equivalent": "Surging Sparks"
+  },
+  "SV8": {
+    "name": "Super Electric Breaker",
+    "equivalent": "Surging Sparks"
+  },
+  "SV8a": {
+    "name": "Terastal Fest ex",
+    "equivalent": "Prismatic Evolutions"
+  },
+  "SV9": {
+    "name": "Battle Partners",
+    "equivalent": "Journey Together"
+  },
+  "SV9a": {
+    "name": "Hot Wind Arena",
+    "equivalent": "Destined Rivals"
+  },
+  "SVK": {
+    "name": "Stellar Miracle",
+    "equivalent": "Stellar Crown"
+  },
+  "SVLN": {
+    "name": "Starter Set Tera Type: Stellar Sylveon ex",
+    "equivalent": null
+  },
+  "SVLS": {
+    "name": "Starter Set Tera Type: Stellar Ceruledge ex",
+    "equivalent": null
+  },
+  "VS1": {
+    "name": "Pokémon Card★VS",
+    "equivalent": null
+  },
+  "XY10": {
+    "name": "Awakening Psychic King",
+    "equivalent": "Fates Collide"
+  },
+  "XY11a": {
+    "name": "Fever-Burst Fighter",
+    "equivalent": "Steam Siege"
+  },
+  "XY11b": {
+    "name": "Cruel Traitor",
+    "equivalent": "Steam Siege"
+  },
+  "XY1a": {
+    "name": "Collection X",
+    "equivalent": "XY"
+  },
+  "XY1b": {
+    "name": "Collection Y",
+    "equivalent": "XY"
+  },
+  "XY2": {
+    "name": "Wild Blaze",
+    "equivalent": "Flashfire"
+  },
+  "XY3": {
+    "name": "Rising Fist",
+    "equivalent": "Furious Fists"
+  },
+  "XY4": {
+    "name": "Phantom Gate",
+    "equivalent": "Phantom Forces"
+  },
+  "XY5a": {
+    "name": "Gaia Volcano",
+    "equivalent": "Primal Clash"
+  },
+  "XY5b": {
+    "name": "Tidal Storm",
+    "equivalent": "Primal Clash"
+  },
+  "XY6": {
+    "name": "Emerald Break",
+    "equivalent": "Roaring Skies"
+  },
+  "XY7": {
+    "name": "Bandit Ring",
+    "equivalent": "Ancient Origins"
+  },
+  "XY8a": {
+    "name": "Blue Shock",
+    "equivalent": "BREAKthrough"
+  },
+  "XY8b": {
+    "name": "Red Flash",
+    "equivalent": "BREAKthrough"
+  },
+  "XY9": {
+    "name": "Rage of the Broken Heavens",
+    "equivalent": "BREAKpoint"
+  },
+  "neo1": {
+    "name": "Gold, Silver, to a New World...",
+    "equivalent": "Neo Genesis"
+  },
+  "neo2": {
+    "name": "Crossing the Ruins...",
+    "equivalent": "Neo Discovery"
+  },
+  "neo3": {
+    "name": "Awakening Legends",
+    "equivalent": "Neo Revelation"
+  },
+  "neo4": {
+    "name": "Darkness, and to Light...",
+    "equivalent": "Neo Destiny"
+  },
+  "sm2+": {
+    "name": "Facing a New Trial",
+    "equivalent": "Burning Shadows"
+  },
+  "web1": {
+    "name": "Pokémon Card★web",
+    "equivalent": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+ "version": 202610022116,
+ "files": [
+  "species.json",
+  "asian-sets.json",
+  "set-languages.json",
+  "set-languages-generated.json",
+  "extra-cards.json",
+  "extra-cards-generated.json",
+  "counterparts.json",
+  "counterparts-generated.json",
+  "print-merges.json",
+  "image-overrides.json"
+ ]
+}

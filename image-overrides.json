@@ -1,0 +1,14 @@
+{
+  "sm7.5-21": {
+    "small": "https://images.pokemontcg.io/sm75/21.png",
+    "large": "https://images.pokemontcg.io/sm75/21_hires.png"
+  },
+  "swsh4.5sv-SV110": {
+    "small": "https://images.pokemontcg.io/swsh45sv/SV110.png",
+    "large": "https://images.pokemontcg.io/swsh45sv/SV110_hires.png"
+  },
+  "swsh4.5sv-SV111": {
+    "small": "https://images.pokemontcg.io/swsh45sv/SV111.png",
+    "large": "https://images.pokemontcg.io/swsh45sv/SV111_hires.png"
+  }
+}

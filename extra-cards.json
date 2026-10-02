@@ -1,0 +1,705 @@
+{
+  "131": [
+    {
+      "id": "x-vending-s2-lapras",
+      "set": {
+        "id": "x-vending-s2",
+        "name": "Expansion Sheet 2",
+        "originalName": "拡張シート",
+        "releaseDate": "1998-06-17",
+        "equivalent": null
+      },
+      "localId": "S2",
+      "number": "—",
+      "name": "Lapras",
+      "rarity": "Common",
+      "languages": {
+        "ja": [
+          "Glossy",
+          "Niet-glossy (Quick Starter Gift Set)"
+        ]
+      },
+      "note": "Automaatkaart op vel 13 en 14 van Expansion Sheet 2. Later als niet-glossy kaart herdrukt in het rode deck van de Quick Starter Gift Set.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Vending_S2)"
+    },
+    {
+      "id": "x-mudkip-starter-001",
+      "set": {
+        "id": "x-mudkip-starter",
+        "name": "Mudkip Constructed Starter Deck",
+        "releaseDate": "2003-01-31",
+        "equivalent": "EX Ruby & Sapphire"
+      },
+      "localId": "001",
+      "number": "001/019",
+      "name": "Lapras ex",
+      "languages": {
+        "ja": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "ko": [
+          "1st Edition"
+        ]
+      },
+      "counterpart": "ex1-99",
+      "note": "Uitgebracht in het Japans (1st Edition en Unlimited) en Koreaans (alleen 1st Edition).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Mudkip_Constructed_Starter_Deck_(TCG)"
+    },
+    {
+      "id": "x-dawn-dash-lapras",
+      "set": {
+        "id": "x-dawn-dash",
+        "name": "Dawn Dash",
+        "releaseDate": "2007-10-26",
+        "equivalent": "Great Encounters",
+        "originalName": "夜明けの疾走"
+      },
+      "localId": "—",
+      "number": "—",
+      "name": "Lapras",
+      "rarity": "Rare",
+      "languages": {
+        "ja": [
+          "1st Edition",
+          "Unlimited"
+        ]
+      },
+      "counterpart": "dp4-21",
+      "note": "Japanse sets uit deze periode bestaan in 1st Edition en Unlimited.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Moonlit_Pursuit/Dawn_Dash_(TCG)"
+    },
+    {
+      "id": "x-entry-pack-dpt-001",
+      "set": {
+        "id": "x-entry-pack-dpt",
+        "name": "Entry Pack DPt (Palkia Half Deck)",
+        "originalName": "エントリーパック",
+        "releaseDate": "2008-10-10",
+        "equivalent": "Platinum"
+      },
+      "localId": "001",
+      "number": "001/013",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "pl1-79",
+      "note": "Japanse half deck, uitgebracht samen met Galactic's Conquest.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Entry_Pack_DPt_(TCG)"
+    },
+    {
+      "id": "L1a-021",
+      "set": {
+        "id": "L1a",
+        "name": "HeartGold Collection",
+        "originalName": "ハートゴールドコレクション",
+        "releaseDate": "2009-10-09",
+        "equivalent": "HeartGold & SoulSilver"
+      },
+      "localId": "021",
+      "number": "021/070",
+      "name": "Lapras",
+      "rarity": "Rare",
+      "languages": {
+        "ja": [
+          "1st Edition",
+          "1st Edition Reverse holo"
+        ]
+      },
+      "counterpart": "hgss1-24",
+      "note": "De Japanse HeartGold Collection kwam alleen in 1st Edition uit; vrijwel alle kaarten ook als reverse holo.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/HeartGold_Collection_(TCG)"
+    },
+    {
+      "id": "x-lp-058",
+      "set": {
+        "id": "x-lp",
+        "name": "L-P Promotional cards",
+        "releaseDate": "2010-05-01",
+        "equivalent": "HGSS Black Star Promos"
+      },
+      "localId": "058",
+      "number": "058/L-P",
+      "name": "Lapras",
+      "rarity": "Promo",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "hgssp-HGSS14",
+      "note": "Prijskaart voor winnaars van Challenge Hiroba-toernooien (mei 2010).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/L-P_Promotional_cards_(TCG)"
+    },
+    {
+      "id": "x-hail-blizzard-015",
+      "set": {
+        "id": "x-hail-blizzard",
+        "name": "Hail Blizzard",
+        "releaseDate": "2011-09-16",
+        "equivalent": "Next Destinies",
+        "originalName": "ヘイルブリザード"
+      },
+      "localId": "015",
+      "number": "015/052",
+      "name": "Lapras",
+      "rarity": "Uncommon",
+      "languages": {
+        "ja": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "ko": [
+          "Unlimited"
+        ]
+      },
+      "counterpart": "bw4-25",
+      "note": "Japans in 1st Edition en Unlimited; Koreaans alleen Unlimited.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Hail_Blizzard_(TCG)"
+    },
+    {
+      "id": "x-reshiram-ex-deck-005",
+      "set": {
+        "id": "x-reshiram-ex-deck",
+        "name": "Reshiram-EX Battle Strength Deck",
+        "originalName": "バトル強化デッキ６０「レシラムＥＸ」",
+        "releaseDate": "2011-10-21",
+        "equivalent": "Next Destinies"
+      },
+      "localId": "005",
+      "number": "005/018",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "bw4-26",
+      "note": "Japans deck. Het overzicht op Bulbapedia noemt 005/052; de deckpagina zelf 005/018.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Reshiram-EX_Battle_Strength_Deck_(TCG)"
+    },
+    {
+      "id": "x-megalo-cannon-013",
+      "set": {
+        "id": "x-megalo-cannon",
+        "name": "Megalo Cannon",
+        "releaseDate": "2013-03-15",
+        "equivalent": "Plasma Blast",
+        "originalName": "メガロキャノン"
+      },
+      "localId": "013",
+      "number": "013/076",
+      "name": "Lapras",
+      "rarity": "Common",
+      "languages": {
+        "ja": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "ko": [
+          "Unlimited"
+        ]
+      },
+      "counterpart": "bw10-17",
+      "note": "Japans in 1st Edition en Unlimited; Koreaans alleen Unlimited.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Megalo_Cannon_(TCG)"
+    },
+    {
+      "id": "XY1b-018",
+      "set": {
+        "id": "XY1b",
+        "name": "Collection Y",
+        "originalName": "コレクションY",
+        "releaseDate": "2013-12-13",
+        "equivalent": "XY"
+      },
+      "localId": "018",
+      "number": "018/060",
+      "name": "Lapras",
+      "rarity": "Rare",
+      "languages": {
+        "ja": [
+          "1st Edition",
+          "Unlimited",
+          "Non-holo (Water/Psychic Battle Strength Set)"
+        ],
+        "ko": [
+          "Unlimited"
+        ]
+      },
+      "counterpart": "xy1-35",
+      "note": "Een exclusieve non-holo versie zat in de Water/Psychic Battle Strength Set (december 2015).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(XY_35)"
+    },
+    {
+      "id": "x-golduck-break-deck-006",
+      "set": {
+        "id": "x-golduck-break-deck",
+        "name": "Golduck BREAK + Palkia-EX Combo Deck",
+        "originalName": "BREAKコンボデッキ60ゴルダックBREAK+パルキアEX",
+        "releaseDate": "2015-10-09",
+        "equivalent": "BREAKpoint"
+      },
+      "localId": "006",
+      "number": "006/016",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "xy9-28",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Golduck_BREAK_%2B_Palkia-EX_Combo_Deck_(TCG)"
+    },
+    {
+      "id": "x-gx-starter-lapras-023",
+      "set": {
+        "id": "x-gx-starter",
+        "name": "GX Starter Decks (Water Lapras-GX)",
+        "originalName": "GXスタートデッキ",
+        "releaseDate": "2018-07-13",
+        "equivalent": "Sun & Moon"
+      },
+      "localId": "023",
+      "number": "023/131",
+      "name": "Lapras GX",
+      "languages": {
+        "ja": [
+          "Non-holo"
+        ]
+      },
+      "counterpart": "sm1-35",
+      "note": "Non-holo herdruk van Lapras GX in de Water Lapras-GX Deck.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/GX_Starter_Decks_(TCG)"
+    },
+    {
+      "id": "x-vaporeon-gx-starter-006",
+      "set": {
+        "id": "x-vaporeon-gx-starter",
+        "name": "Vaporeon-GX Starter Set Water",
+        "originalName": "スターターセット",
+        "releaseDate": "2018-11-23",
+        "equivalent": "Dragon Majesty"
+      },
+      "localId": "006",
+      "number": "006/038",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "sm7.5-21",
+      "note": "Herdruk van de Dragon Storm-Lapras.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Vaporeon-GX_Starter_Set_Water_(TCG)"
+    },
+    {
+      "id": "x-family-pcg-016",
+      "set": {
+        "id": "x-family-pcg",
+        "name": "Sun & Moon Family Pokémon Card Game",
+        "originalName": "ファミリーポケモンカードゲーム",
+        "releaseDate": "2019-03-15",
+        "equivalent": "Hidden Fates"
+      },
+      "localId": "016",
+      "number": "016/051",
+      "name": "Lapras",
+      "rarity": "Common",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "sm115-17",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_Family_Pok%C3%A9mon_Card_Game_(TCG)"
+    },
+    {
+      "id": "x-v-starter-water-005",
+      "set": {
+        "id": "x-v-starter-water",
+        "name": "V Starter Set Water",
+        "originalName": "スターターセットV",
+        "releaseDate": "2019-11-29",
+        "equivalent": "Sword & Shield"
+      },
+      "localId": "005",
+      "number": "005/023",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ],
+        "ko": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "swsh1-48",
+      "note": "Japans en Koreaans deck.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/V_Starter_Sets_(TCG)"
+    },
+    {
+      "id": "S1W-014",
+      "set": {
+        "id": "S1W",
+        "name": "Sword",
+        "originalName": "ソード",
+        "releaseDate": "2019-12-06",
+        "equivalent": "Sword & Shield"
+      },
+      "localId": "014",
+      "number": "014/060",
+      "name": "Lapras V",
+      "rarity": "RR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ],
+        "ko": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-49",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Sword_(TCG)",
+      "note": "Sword kwam uit in het Japans en Koreaans."
+    },
+    {
+      "id": "S1W-015",
+      "set": {
+        "id": "S1W",
+        "name": "Sword",
+        "originalName": "ソード",
+        "releaseDate": "2019-12-06",
+        "equivalent": "Sword & Shield"
+      },
+      "localId": "015",
+      "number": "015/060",
+      "name": "Lapras VMAX",
+      "rarity": "RRR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ],
+        "ko": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-50",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Sword_(TCG)",
+      "note": "Sword kwam uit in het Japans en Koreaans."
+    },
+    {
+      "id": "S1W-062",
+      "set": {
+        "id": "S1W",
+        "name": "Sword",
+        "originalName": "ソード",
+        "releaseDate": "2019-12-06",
+        "equivalent": "Sword & Shield"
+      },
+      "localId": "062",
+      "number": "062/060",
+      "name": "Lapras V",
+      "rarity": "SR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ],
+        "ko": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-189",
+      "note": "Full Art. Sword kwam uit in het Japans en Koreaans.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Sword_(TCG)"
+    },
+    {
+      "id": "S1W-069",
+      "set": {
+        "id": "S1W",
+        "name": "Sword",
+        "originalName": "ソード",
+        "releaseDate": "2019-12-06",
+        "equivalent": "Sword & Shield"
+      },
+      "localId": "069",
+      "number": "069/060",
+      "name": "Lapras VMAX",
+      "rarity": "HR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ],
+        "ko": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-203",
+      "note": "Rainbow (hyper rare). Sword kwam uit in het Japans en Koreaans.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Sword_(TCG)"
+    },
+    {
+      "id": "S4a-031",
+      "set": {
+        "id": "S4a",
+        "name": "Shiny Star V",
+        "originalName": "シャイニースターV",
+        "releaseDate": "2020-11-20",
+        "equivalent": "Shining Fates"
+      },
+      "localId": "031",
+      "number": "031/190",
+      "name": "Lapras V",
+      "rarity": "RR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-49",
+      "note": "Herdruk van Lapras V uit Sword.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Shiny_Star_V_(TCG)"
+    },
+    {
+      "id": "S4a-032",
+      "set": {
+        "id": "S4a",
+        "name": "Shiny Star V",
+        "originalName": "シャイニースターV",
+        "releaseDate": "2020-11-20",
+        "equivalent": "Shining Fates"
+      },
+      "localId": "032",
+      "number": "032/190",
+      "name": "Lapras VMAX",
+      "rarity": "RRR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-50",
+      "note": "Herdruk van Lapras VMAX uit Sword.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Shiny_Star_V_(TCG)"
+    },
+    {
+      "id": "S4a-311",
+      "set": {
+        "id": "S4a",
+        "name": "Shiny Star V",
+        "originalName": "シャイニースターV",
+        "releaseDate": "2020-11-20",
+        "equivalent": "Shining Fates"
+      },
+      "localId": "311",
+      "number": "311/190",
+      "name": "Lapras V",
+      "rarity": "SSR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh4.5sv-SV110",
+      "note": "Shiny Lapras V.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Shiny_Star_V_(TCG)"
+    },
+    {
+      "id": "S4a-312",
+      "set": {
+        "id": "S4a",
+        "name": "Shiny Star V",
+        "originalName": "シャイニースターV",
+        "releaseDate": "2020-11-20",
+        "equivalent": "Shining Fates"
+      },
+      "localId": "312",
+      "number": "312/190",
+      "name": "Lapras VMAX",
+      "rarity": "SSR",
+      "languages": {
+        "ja": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh4.5sv-SV111",
+      "note": "Shiny Gigantamax Lapras VMAX.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Shiny_Star_V_(TCG)"
+    },
+    {
+      "id": "x-inteleon-hcd-001",
+      "set": {
+        "id": "x-inteleon-hcd",
+        "name": "Inteleon VMAX High-Class Deck",
+        "originalName": "ハイクラスデッキ",
+        "releaseDate": "2021-05-28",
+        "equivalent": "Fusion Strike"
+      },
+      "localId": "001",
+      "number": "001/022",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Holo"
+        ],
+        "ko": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh8-54",
+      "note": "In Japan eerst als holo in dit deck (westers alleen non-holo). In juli 2021 ook in Zuid-Korea uitgebracht.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Inteleon_VMAX_High-Class_Deck_(TCG)"
+    },
+    {
+      "id": "x-start-deck-100-086",
+      "set": {
+        "id": "x-start-deck-100",
+        "name": "Start Deck 100",
+        "releaseDate": "2021-12-17",
+        "equivalent": "Fusion Strike"
+      },
+      "localId": "086",
+      "number": "086/414",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Non-holo"
+        ],
+        "zh-tw": [
+          "Non-holo"
+        ],
+        "ko": [
+          "Non-holo"
+        ],
+        "zh-cn": [
+          "Non-holo"
+        ]
+      },
+      "counterpart": "swsh8-54",
+      "note": "Japans (dec. 2021), traditioneel Chinees (feb. 2022), Koreaans (apr. 2022) en vereenvoudigd Chinees (mei 2024).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Start_Deck_100_(TCG)"
+    },
+    {
+      "id": "S10b-023",
+      "set": {
+        "id": "S10b",
+        "name": "Pokémon GO",
+        "originalName": "Pokémon GO",
+        "releaseDate": "2022-06-17",
+        "equivalent": "Pokémon GO"
+      },
+      "localId": "023",
+      "number": "023/071",
+      "name": "Lapras",
+      "rarity": "Rare",
+      "languages": {
+        "ja": [
+          "Holo"
+        ],
+        "zh-tw": [
+          "Holo"
+        ],
+        "ko": [
+          "Holo"
+        ],
+        "th": [
+          "Holo"
+        ],
+        "id": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh10.5-023",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_GO_(TCG)",
+      "note": "Tegelijk uitgebracht in Japan, Taiwan, Hongkong, Zuid-Korea en Thailand (juni 2022); Indonesisch in augustus 2022."
+    },
+    {
+      "id": "x-water-greninja-start-022",
+      "set": {
+        "id": "x-ex-start-decks",
+        "name": "ex Start Deck (Water Greninja ex)",
+        "originalName": "exスタートデッキ",
+        "releaseDate": "2023-07-07",
+        "equivalent": "Obsidian Flames"
+      },
+      "localId": "022",
+      "number": "022/139",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ],
+        "zh-tw": [
+          "Normaal"
+        ],
+        "ko": [
+          "Normaal"
+        ],
+        "id": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "sv03-045",
+      "note": "Japans (juli 2023), traditioneel Chinees en Koreaans. De Indonesische versie zat in 'Deck Ringkas ex' (SVDs, nummer 035).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Ex_Start_Decks_(TCG)"
+    },
+    {
+      "id": "x-battle-academy-012",
+      "set": {
+        "id": "x-battle-academy",
+        "name": "Pokémon Card Game Battle Academy",
+        "releaseDate": "2024-03-08",
+        "equivalent": "Stellar Crown"
+      },
+      "localId": "012",
+      "number": "012/066",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Greninja-stempel"
+        ],
+        "ko": [
+          "Greninja-stempel"
+        ],
+        "zh-cn": [
+          "Greninja-stempel"
+        ]
+      },
+      "counterpart": "sv07-031",
+      "note": "Met Greninja-stempel, in het Greninja ex-deck. Japans (maart 2024), Koreaans (april 2024) en vereenvoudigd Chinees (januari 2026).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Card_Game_Battle_Academy_(TCG)"
+    },
+    {
+      "id": "x-classic-008",
+      "set": {
+        "id": "x-classic",
+        "name": "Pokémon Trading Card Game Classic",
+        "releaseDate": "2023-11-17",
+        "equivalent": "HeartGold & SoulSilver"
+      },
+      "localId": "008",
+      "number": "008/034",
+      "name": "Lapras",
+      "languages": {
+        "en": [
+          "Holo"
+        ],
+        "ja": [
+          "Holo"
+        ],
+        "zh-tw": [
+          "Holo"
+        ],
+        "ko": [
+          "Holo"
+        ]
+      },
+      "counterpart": "hgss1-24",
+      "note": "Holo-herdruk in het Blastoise & Suicune ex-deck, zonder regulation mark (niet toernooilegaal). Ook in het Japans, traditioneel Chinees en Koreaans uitgebracht, deels met nummer 008/032.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game_Classic_(TCG)"
+    }
+  ]
+}

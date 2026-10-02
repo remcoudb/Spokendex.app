@@ -1,0 +1,11 @@
+Data voor SpokenDex.
+
+Talen, varianten en ontbrekende kaarten zijn afgeleid van Bulbapedia
+(https://bulbapedia.bulbagarden.net) en vallen onder CC BY-NC-SA 2.5:
+https://creativecommons.org/licenses/by-nc-sa/2.5/
+Gebruik is dus alleen niet-commercieel, met bronvermelding, en afgeleide data
+moet onder dezelfde licentie gedeeld worden.
+
+Kaartgegevens komen van TCGdex (https://tcgdex.dev).
+Pokémon en alle bijbehorende namen zijn handelsmerken van Nintendo, The Pokémon
+Company en Game Freak. Dit is een onofficieel fanproject.

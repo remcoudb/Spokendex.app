@@ -1,0 +1,1233 @@
+{
+  "base3": {
+    "name": "Fossil",
+    "languages": {
+      "en": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "nl": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "de": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "fr": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "it": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "es": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "pt": [
+        "1st Edition",
+        "Unlimited"
+      ]
+    },
+    "note": "Alle talen in 1st Edition en Unlimited. Engelse Unlimited non-holo's bestaan ook met ©1999-2000 (Australische 'red logo'-packs); Engelse Unlimited holo's ook met Cosmos-holopatroon.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Fossil_(TCG)"
+  },
+  "si1": {
+    "name": "Southern Islands",
+    "languages": {
+      "en": [
+        "Unlimited"
+      ]
+    },
+    "note": "Alleen in het Engels uitgebracht.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Southern_Islands_(TCG)"
+  },
+  "ecard3": {
+    "name": "Skyridge",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Alleen Engels, Duits en Italiaans. Alle kaarten behalve de H/32-kaarten bestaan ook als reverse holo, inclusief de secret rares.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Skyridge_(TCG)"
+  },
+  "ex1": {
+    "name": "EX Ruby & Sapphire",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen. Niet-Engelse kaarten hebben geen e-Reader-strook. Veel non-holo's bestaan met meerdere codes linksonder.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Ruby_%26_Sapphire_(TCG)"
+  },
+  "ex12": {
+    "name": "EX Legend Maker",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal"
+      ],
+      "zh-tw": [
+        "Normaal"
+      ]
+    },
+    "note": "Reverse holo's alleen in het Engels, Duits, Frans en Italiaans. De Portugese en Chinese versie hebben geen reverse holo's (en geen Pikachu Secret Rare). Bulbapedia noemt alleen 'Chinees'; hier ingedeeld als traditioneel Chinees.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/EX_Legend_Maker_(TCG)"
+  },
+  "dp4": {
+    "name": "Great Encounters",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal"
+      ]
+    },
+    "note": "Reverse holo's in het Engels, Duits, Frans en Italiaans. De Spaanse versie heeft geen reverse holo's.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Great_Encounters_(TCG)"
+  },
+  "pl1": {
+    "name": "Platinum",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal"
+      ]
+    },
+    "note": "Reverse holo's in het Engels, Duits, Frans en Italiaans. De Spaanse versie heeft geen reverse holo's.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Platinum_(TCG)"
+  },
+  "hgss1": {
+    "name": "HeartGold & SoulSilver",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal"
+      ]
+    },
+    "note": "Reverse holo's in alle talen behalve Portugees.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/HeartGold_%26_SoulSilver_(TCG)"
+  },
+  "bw4": {
+    "name": "Next Destinies",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal"
+      ]
+    },
+    "note": "Reverse holo's in alle talen behalve Portugees.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Next_Destinies_(TCG)"
+  },
+  "bw10": {
+    "name": "Plasma Blast",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal"
+      ]
+    },
+    "note": "Niet in het Spaans uitgebracht. Reverse holo's in het Engels, Duits, Frans en Italiaans; de Portugese versie heeft geen reverse holo's.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Plasma_Blast_(TCG)"
+  },
+  "xy1": {
+    "name": "XY",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "ru": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal"
+      ]
+    },
+    "note": "Ook in het Russisch uitgebracht. Reverse holo's in alle talen behalve Portugees.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/XY_(TCG)"
+  },
+  "xy9": {
+    "name": "BREAKpoint",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal"
+      ]
+    },
+    "note": "Reverse holo's in alle talen behalve Portugees.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/BREAKpoint_(TCG)"
+  },
+  "sm1": {
+    "name": "Sun & Moon",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen (niet voor GX-, Full Art- en Rainbow-kaarten).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Sun_%26_Moon_(TCG)",
+    "cards": {
+      "35": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "GX-kaart: alleen als holo, geen reverse holo."
+      },
+      "139": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Full Art GX-kaart: geen reverse holo."
+      },
+      "151": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Rainbow (secret rare) GX-kaart: geen reverse holo."
+      }
+    }
+  },
+  "sm8": {
+    "name": "Lost Thunder",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Lost_Thunder_(TCG)"
+  },
+  "sm9": {
+    "name": "Team Up",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Team_Up_(TCG)"
+  },
+  "sm11": {
+    "name": "Unified Minds",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Unified_Minds_(TCG)"
+  },
+  "2019sm": {
+    "name": "McDonald's Collection 2019",
+    "languages": {
+      "en": [
+        "Normaal"
+      ],
+      "de": [
+        "Normaal"
+      ],
+      "fr": [
+        "Normaal"
+      ],
+      "es": [
+        "Normaal"
+      ],
+      "pt": [
+        "Normaal"
+      ]
+    },
+    "note": "Alleen als Confetti-holo. Uitgebracht in de VS, Duitsland en het VK; de Franse versie van deze reeks alleen in Franstalig Canada en België.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2019_(TCG)"
+  },
+  "2019sm-fr": {
+    "name": "Collection McDonald's 2019 (Frankrijk)",
+    "languages": {
+      "fr": [
+        "Normaal",
+        "Confetti holo"
+      ]
+    },
+    "note": "Aparte Franse reeks van 40 kaarten, alleen in Frankrijk. Elke kaart bestaat als normale kaart én als Confetti-holo.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2019_(TCG)"
+  },
+  "swsh1": {
+    "name": "Sword & Shield",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen (niet voor V-, VMAX-, Full Art- en Rainbow-kaarten).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Sword_%26_Shield_(TCG)",
+    "cards": {
+      "48": {
+        "languages": {
+          "en": [
+            "Normaal",
+            "Reverse holo",
+            "Cosmos holo (Holiday Calendar 2022)"
+          ]
+        },
+        "note": "Ook als Cosmos-holo met sneeuwvlok-stempel in de Engelse Holiday Calendar 2022."
+      },
+      "49": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Lapras V: alleen holo."
+      },
+      "50": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Lapras VMAX: alleen holo."
+      },
+      "189": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Full Art Lapras V: alleen holo."
+      },
+      "203": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Rainbow Lapras VMAX (secret rare): alleen holo."
+      }
+    }
+  },
+  "swsh4.5sv": {
+    "name": "Shining Fates Shiny Vault",
+    "languages": {
+      "en": [
+        "Holo"
+      ],
+      "de": [
+        "Holo"
+      ],
+      "fr": [
+        "Holo"
+      ],
+      "it": [
+        "Holo"
+      ],
+      "es": [
+        "Holo"
+      ],
+      "pt": [
+        "Holo"
+      ]
+    },
+    "note": "Shiny Vault-kaarten bestaan alleen als holo. Bulbapedia noemt geen talen voor deze set; de talen komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Shining_Fates_(TCG)"
+  },
+  "swsh6": {
+    "name": "Chilling Reign",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Chilling_Reign_(TCG)"
+  },
+  "swsh8": {
+    "name": "Fusion Strike",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Reverse holo's in alle talen.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Fusion_Strike_(TCG)"
+  },
+  "swsh9": {
+    "name": "Brilliant Stars",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Alle holo rares en lager ook als reverse holo. Bulbapedia noemt de talen niet expliciet; ze komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Brilliant_Stars_(TCG)"
+  },
+  "swsh10.5": {
+    "name": "Pokémon GO",
+    "languages": {
+      "en": [
+        "Holo",
+        "Reverse holo"
+      ],
+      "de": [
+        "Holo",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Holo",
+        "Reverse holo"
+      ],
+      "it": [
+        "Holo",
+        "Reverse holo"
+      ],
+      "es": [
+        "Holo",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Holo",
+        "Reverse holo"
+      ]
+    },
+    "note": "Alle holo rares en lager ook als reverse holo. Bulbapedia noemt de talen niet expliciet; ze komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_GO_(TCG)"
+  },
+  "2022swsh": {
+    "name": "McDonald's Collection 2022",
+    "languages": {
+      "en": [
+        "Normaal"
+      ],
+      "de": [
+        "Normaal"
+      ],
+      "pl": [
+        "Normaal"
+      ],
+      "fr": [
+        "Normaal"
+      ],
+      "it": [
+        "Normaal"
+      ],
+      "es": [
+        "Normaal"
+      ]
+    },
+    "note": "Uitgebracht in het VK, de VS, Duitsland, Polen en (in 2023) Oekraïne. Lapras bestaat alleen als niet-holo: slechts zes kaarten uit de set waren Confetti-holo. Frans, Italiaans en Spaans komen van TCGdex en worden niet door Bulbapedia genoemd; Oekraïens kent de app nog niet.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/McDonald%27s_Collection_2022_(TCG)"
+  },
+  "swsh12.5gg": {
+    "name": "Crown Zenith Galarian Gallery",
+    "languages": {
+      "en": [
+        "Holo"
+      ],
+      "de": [
+        "Holo"
+      ],
+      "fr": [
+        "Holo"
+      ],
+      "it": [
+        "Holo"
+      ],
+      "es": [
+        "Holo"
+      ],
+      "pt": [
+        "Holo"
+      ]
+    },
+    "note": "Galarian Gallery-kaarten bestaan alleen als holo. De talen komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Crown_Zenith_(TCG)"
+  },
+  "sv03": {
+    "name": "Obsidian Flames",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Alle rares en lager ook als reverse holo. Bulbapedia noemt de talen niet expliciet; ze komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Obsidian_Flames_(TCG)"
+  },
+  "sv03.5": {
+    "name": "151",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Westerse versie: gewone reverse holo's. De Poké Ball- en Master Ball-holo's bestaan alleen in de Aziatische versie (SV2a). De talen komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/151_(TCG)"
+  },
+  "SV2a": {
+    "name": "Pokémon Card 151 (Azië)",
+    "languages": {
+      "ja": [
+        "Normaal",
+        "Poké Ball holo",
+        "Master Ball holo"
+      ],
+      "ko": [
+        "Normaal",
+        "Poké Ball holo",
+        "Master Ball holo"
+      ],
+      "zh-tw": [
+        "Normaal",
+        "Poké Ball holo",
+        "Master Ball holo"
+      ]
+    },
+    "note": "In de Japanse, Koreaanse en traditioneel Chinese versie bestaan commons, uncommons en rares als Poké Ball-holo en (zeldzaam) als Master Ball-holo. Voor Indonesisch noemt Bulbapedia dit niet.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/151_(TCG)"
+  },
+  "sv04.5": {
+    "name": "Paldean Fates",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Alle rares en lager ook als reverse holo. Bulbapedia noemt de talen niet expliciet; ze komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Paldean_Fates_(TCG)"
+  },
+  "sv07": {
+    "name": "Stellar Crown",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Alle rares en lager ook als reverse holo (niet de ex-kaarten). De talen komen van TCGdex.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Crown_(TCG)",
+    "cards": {
+      "031": {
+        "languages": {
+          "en": [
+            "Normaal",
+            "Reverse holo",
+            "7-Eleven-stempel"
+          ]
+        },
+        "note": "Ook met '7-Eleven'-stempel, als cadeau bij aankoop in Maleisië, de Filipijnen en Singapore (Engelstalige print)."
+      },
+      "032": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Lapras ex (Double Rare): alleen holo."
+      },
+      "158": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Full Art Lapras ex (Ultra Rare): alleen holo."
+      }
+    }
+  },
+  "sv10": {
+    "name": "Destined Rivals",
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es-mx": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Uitgebracht in het Engels, Duits, Frans, Italiaans, Spaans, Portugees en Latijns-Amerikaans Spaans. Alle rares en lager ook als reverse holo (niet de Illustration Rares).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Destined_Rivals_(TCG)",
+    "cards": {
+      "194": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Misty's Lapras (Illustration Rare): alleen holo."
+      }
+    }
+  },
+  "PMCG3": {
+    "name": "Mystery of the Fossils",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ]
+    },
+    "note": "Alleen in het Japans uitgebracht (zonder 1st Edition-markering).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Mystery_of_the_Fossils_(TCG)",
+    "cards": {
+      "022": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Holo rare."
+      }
+    }
+  },
+  "VS1": {
+    "name": "Pokémon VS",
+    "languages": {
+      "ja": [
+        "1st Edition"
+      ]
+    },
+    "note": "Alleen in het Japans en alleen in 1st Edition.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_VS_(TCG)",
+    "cards": {
+      "041": {
+        "variants": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "note": "Pryce's Lapras bestaat ook als Unlimited, als bijlage in een tijdschrift."
+      }
+    }
+  },
+  "E5": {
+    "name": "Mysterious Mountains",
+    "languages": {
+      "ja": [
+        "1st Edition",
+        "Unlimited"
+      ]
+    },
+    "note": "Alleen in het Japans, in 1st Edition en Unlimited.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Mysterious_Mountains_(TCG)"
+  },
+  "PCG5": {
+    "name": "Mirage Forest",
+    "languages": {
+      "ja": [
+        "1st Edition",
+        "Unlimited"
+      ]
+    },
+    "note": "Alleen in het Japans, in 1st Edition en Unlimited.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Mirage_Forest_(TCG)"
+  },
+  "SM1S": {
+    "name": "Collection Sun",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ]
+    },
+    "note": "Uitgebracht in het Japans en Koreaans, alleen Unlimited (vanaf Sun & Moon geen Japanse 1st Edition meer).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Collection_Sun_(TCG)",
+    "cards": {
+      "016": {
+        "variants": [
+          "Holo"
+        ]
+      },
+      "061": {
+        "variants": [
+          "Holo"
+        ]
+      },
+      "067": {
+        "variants": [
+          "Holo"
+        ]
+      }
+    }
+  },
+  "SM9": {
+    "name": "Tag Bolt",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ]
+    },
+    "note": "Uitgebracht in het Japans en Koreaans.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Tag_Bolt_(TCG)"
+  },
+  "SM11": {
+    "name": "Miracle Twin",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ]
+    },
+    "note": "Uitgebracht in het Japans en Koreaans.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Miracle_Twin_(TCG)"
+  },
+  "S6H": {
+    "name": "Silver Lance",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ],
+      "zh-tw": [
+        "Normaal"
+      ],
+      "th": [
+        "Normaal"
+      ],
+      "id": [
+        "Normaal"
+      ]
+    },
+    "note": "Uitgebracht in het Japans, Koreaans, Chinees, Thais en Indonesisch. Bulbapedia noemt alleen 'Chinees'; hier ingedeeld als traditioneel Chinees.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Silver_Lance_(TCG)"
+  },
+  "SV3a": {
+    "name": "Raging Surf",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "zh-tw": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ],
+      "th": [
+        "Normaal"
+      ],
+      "id": [
+        "Normaal"
+      ]
+    },
+    "note": "Japans (sept. 2023), daarna traditioneel Chinees, Koreaans en Thais. De Indonesische versie zat in de set 'Kilau Hitam' (SV3s, nummer 022).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Raging_Surf_(TCG)"
+  },
+  "SV7": {
+    "name": "Stellar Miracle",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "zh-tw": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ],
+      "th": [
+        "Normaal"
+      ],
+      "id": [
+        "Normaal"
+      ]
+    },
+    "note": "Japans (juli 2024), daarna traditioneel Chinees en Koreaans. Thais en Indonesisch kwamen uit als 'Stellar Guidance' met andere nummering (Indonesisch: SV7s 031).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Miracle_(TCG)",
+    "cards": {
+      "019": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Lapras ex (RR): alleen holo."
+      },
+      "117": {
+        "variants": [
+          "Holo"
+        ],
+        "note": "Full Art Lapras ex (SR): alleen holo."
+      }
+    }
+  },
+  "SV9a": {
+    "name": "Hot Wind Arena",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "zh-tw": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ]
+    },
+    "note": "Japans (maart 2025), daarna traditioneel Chinees en Koreaans.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Hot_Wind_Arena_(TCG)"
+  },
+  "M-P": {
+    "name": "MEGA Promo Cards",
+    "languages": {
+      "ja": [
+        "Holo"
+      ],
+      "zh-tw": [
+        "Holo"
+      ],
+      "th": [
+        "Holo"
+      ],
+      "id": [
+        "Holo"
+      ],
+      "ko": [
+        "Holo"
+      ]
+    },
+    "note": "Gelijkwaardige M-P-promo's kwamen ook uit in traditioneel Chinees, Thais, Indonesisch en Koreaans (Bulbapedia noemt dit voor de reeks, niet per kaart).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/M-P_Promotional_cards_(TCG)"
+  },
+  "MC": {
+    "name": "Start Deck 100 Battle Collection",
+    "languages": {
+      "ja": [
+        "Normaal"
+      ],
+      "zh-tw": [
+        "Normaal"
+      ],
+      "ko": [
+        "Normaal"
+      ]
+    },
+    "note": "Japans (dec. 2025), daarna traditioneel Chinees (jan. 2026) en Koreaans (feb. 2026).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Start_Deck_100_Battle_Collection_(TCG)"
+  }
+}
