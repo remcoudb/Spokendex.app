@@ -700,6 +700,48 @@
       "counterpart": "hgss1-24",
       "note": "Holo-herdruk in het Blastoise & Suicune ex-deck, zonder regulation mark (niet toernooilegaal). Ook in het Japans, traditioneel Chinees en Koreaans uitgebracht, deels met nummer 008/032.",
       "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game_Classic_(TCG)"
+    },
+    {
+      "id": "x-southern-islands-jp-lapras",
+      "set": {
+        "id": "x-southern-islands-jp",
+        "name": "Southern Islands (Tropical Island)",
+        "originalName": "サザンアイランド",
+        "releaseDate": "1999-07-17",
+        "equivalent": "Southern Islands"
+      },
+      "localId": "—",
+      "number": "—",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "si1-12",
+      "note": "Japanse uitgave in de promomap Tropical Island (regio Sea), uitgebracht bij de tweede Pokémon-film en later als boxset van 3 kaarten. Japanse kaarten zijn ongenummerd.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Southern_Islands_(TCG)"
+    },
+    {
+      "id": "x-trainer-battle-misty-007",
+      "set": {
+        "id": "x-trainer-battle-misty",
+        "name": "Misty of Cerulean City Gym Trainer Battle Deck",
+        "originalName": "トレーナーバトルデッキ：ハナダシティジムのカスミ",
+        "releaseDate": "2019-01-25",
+        "equivalent": "Team Up"
+      },
+      "localId": "007",
+      "number": "007/031",
+      "name": "Lapras",
+      "languages": {
+        "ja": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "sm9-31",
+      "note": "Japans deck, alleen bij Pokémon Centers. Zelfde kaart als Team Up 31.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Trainer_Battle_Decks_(TCG)"
     }
   ]
 }

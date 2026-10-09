@@ -41,7 +41,7 @@
         "Unlimited"
       ]
     },
-    "note": "Alleen in het Engels uitgebracht.",
+    "note": "De Engelse collectie (2001). De Japanse uitgave (1999, in de mappen Tropical Island en Rainbow Island) staat als aparte kaart.",
     "source": "https://bulbapedia.bulbagarden.net/wiki/Southern_Islands_(TCG)"
   },
   "ecard3": {
@@ -1229,5 +1229,33 @@
     },
     "note": "Japans (dec. 2025), daarna traditioneel Chinees (jan. 2026) en Koreaans (feb. 2026).",
     "source": "https://bulbapedia.bulbagarden.net/wiki/Start_Deck_100_Battle_Collection_(TCG)"
+  },
+  "S12a": {
+    "name": "VSTAR Universe",
+    "languages": {
+      "ja": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
+    "note": "Alle niet-holo kaarten bestaan ook als parallel-print met reverse glitter holo.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Crown_Zenith_(TCG)"
+  },
+  "M6a": {
+    "name": "30th Celebration",
+    "languages": {
+      "ja": [
+        "Holo"
+      ]
+    },
+    "note": "Elke kaart in deze set is holo, ook de basis-energie.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/30th_Celebration_(TCG)"
+  },
+  "SM7a": {
+    "name": "Thunderclap Spark",
+    "languages": {},
+    "officialCount": 60,
+    "note": "Setnummers lopen tot 060 (TCGdex noemt 50).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Thunderclap_Spark_(TCG)"
   }
 }
