@@ -1,5 +1,5 @@
 {
- "version": 202610101046,
+ "version": 202610101055,
  "files": [
   "species.json",
   "asian-sets.json",
@@ -12,6 +12,7 @@
   "print-merges.json",
   "image-overrides.json",
   "jp-images.json",
-  "cardmarket-links.json"
+  "cardmarket-links.json",
+  "cardmarket-expansions.json"
  ]
 }
