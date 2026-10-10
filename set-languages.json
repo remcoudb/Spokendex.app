@@ -1246,9 +1246,12 @@
     "languages": {
       "ja": [
         "Holo"
+      ],
+      "zh-cn": [
+        "Holo"
       ]
     },
-    "note": "Elke kaart in deze set is holo, ook de basis-energie.",
+    "note": "Elke kaart in deze set is holo, ook de basis-energie. Tegelijk uitgebracht in het Japans en het Vereenvoudigd Chinees.",
     "source": "https://bulbapedia.bulbagarden.net/wiki/30th_Celebration_(TCG)"
   },
   "SM7a": {

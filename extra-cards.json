@@ -743,6 +743,570 @@
       "counterpart": "sm9-31",
       "note": "Japans deck, alleen bij Pokémon Centers. Zelfde kaart als Team Up 31.",
       "source": "https://bulbapedia.bulbagarden.net/wiki/Trainer_Battle_Decks_(TCG)"
+    },
+    {
+      "id": "x-cn-csm1c-014",
+      "set": {
+        "id": "x-cn-csm1c",
+        "name": "Storming Emergence: Abundant",
+        "releaseDate": "2022-10-28"
+      },
+      "localId": "014",
+      "number": "014/151",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Reverse holo"
+        ]
+      },
+      "counterpart": "sm8-56",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten in deze set bestaan ook als reverse holo, alleen in het Chinees.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Storming_Emergence_(ATCG)"
+    },
+    {
+      "id": "x-cn-csm1c-015",
+      "set": {
+        "id": "x-cn-csm1c",
+        "name": "Storming Emergence: Abundant",
+        "releaseDate": "2022-10-28"
+      },
+      "localId": "015",
+      "number": "015/151",
+      "name": "Lapras GX",
+      "rarity": "Double rare",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "sm1-35",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Storming_Emergence_(ATCG)"
+    },
+    {
+      "id": "x-cn-csm2a-026",
+      "set": {
+        "id": "x-cn-csm2a",
+        "name": "Shining Synergy: Shower",
+        "releaseDate": "2023-01-18"
+      },
+      "localId": "026",
+      "number": "026/150",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Reverse holo"
+        ]
+      },
+      "counterpart": "sm11-36",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten in deze set bestaan ook als reverse holo, alleen in het Chinees.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Shining_Synergy_(ATCG)"
+    },
+    {
+      "id": "x-cn-csm2d-060",
+      "set": {
+        "id": "x-cn-csm2d",
+        "name": "Shining Synergy GX Starter Deck",
+        "releaseDate": "2023-01-18"
+      },
+      "localId": "060",
+      "number": "060/342",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "sm9-31",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Shining_Synergy_GX_Starter_Deck_(ATCG)"
+    },
+    {
+      "id": "x-cn-bps-001",
+      "set": {
+        "id": "x-cn-bps",
+        "name": "Battle Party Set: Water Modification Deck",
+        "releaseDate": "2023-04-15"
+      },
+      "localId": "001",
+      "number": "001/010",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Reverse holo"
+        ]
+      },
+      "counterpart": "sm9-31",
+      "note": "Vereenvoudigd Chinees. Elk deck heeft een kans dat alle kaarten erin als reverse holo zijn gedrukt.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Battle_Party_Set_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs1a-008",
+      "set": {
+        "id": "x-cn-cs1a",
+        "name": "Dynamax Clash: Thunder",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "008",
+      "number": "008/135",
+      "name": "Lapras V",
+      "rarity": "Holo Rare V",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-49",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs1a-009",
+      "set": {
+        "id": "x-cn-cs1a",
+        "name": "Dynamax Clash: Thunder",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "009",
+      "number": "009/135",
+      "name": "Lapras VMAX",
+      "rarity": "Holo Rare VMAX",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-50",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs1a-175",
+      "set": {
+        "id": "x-cn-cs1a",
+        "name": "Dynamax Clash: Thunder",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "175",
+      "number": "175/135",
+      "name": "Lapras V",
+      "rarity": "Ultra Rare",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-189",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs1a-193",
+      "set": {
+        "id": "x-cn-cs1a",
+        "name": "Dynamax Clash: Thunder",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "193",
+      "number": "193/135",
+      "name": "Lapras V",
+      "rarity": "Shiny rare V",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "S4a-311",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs1a-194",
+      "set": {
+        "id": "x-cn-cs1a",
+        "name": "Dynamax Clash: Thunder",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "194",
+      "number": "194/135",
+      "name": "Lapras VMAX",
+      "rarity": "Shiny rare VMAX",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "S4a-312",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs1a-200",
+      "set": {
+        "id": "x-cn-cs1a",
+        "name": "Dynamax Clash: Thunder",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "200",
+      "number": "200/135",
+      "name": "Lapras VMAX",
+      "rarity": "Secret Rare",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-203",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_(ATCG)"
+    },
+    {
+      "id": "x-cn-csa-003",
+      "set": {
+        "id": "x-cn-csa",
+        "name": "Dynamax Clash Deck Building Box",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "003",
+      "number": "003/024",
+      "name": "Lapras V",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "swsh1-49",
+      "note": "Vereenvoudigd Chinees. Eén van negen Pokémon V zit willekeurig in de box.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_Deck_Building_Gift_Box_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs1d-046",
+      "set": {
+        "id": "x-cn-cs1d",
+        "name": "Dynamax Clash V Starter Deck",
+        "releaseDate": "2023-05-19"
+      },
+      "localId": "046",
+      "number": "046/207",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "swsh1-48",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dynamax_Clash_V_Starter_Deck_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs3b-034",
+      "set": {
+        "id": "x-cn-cs3b",
+        "name": "Primordial Arts: Torrent",
+        "releaseDate": "2023-11-17"
+      },
+      "localId": "034",
+      "number": "034/122",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Reverse holo"
+        ]
+      },
+      "counterpart": "swsh6-29",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten in deze set bestaan ook als reverse holo, alleen in het Chinees.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Primordial_Arts_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs45-005",
+      "set": {
+        "id": "x-cn-cs45",
+        "name": "Flame Dance of the End",
+        "releaseDate": "2024-04-26",
+        "originalName": "强化包 终末炎舞"
+      },
+      "localId": "005",
+      "number": "005/063",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "swsh8-54",
+      "note": "Vereenvoudigd Chinees. Dex noemt ook een reverse holo; Bulbapedia zegt daar voor deze subset niets over.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Flame_Dance_of_the_End_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs5d-029",
+      "set": {
+        "id": "x-cn-cs5d",
+        "name": "Gallant Galaxy V Starter Deck",
+        "releaseDate": "2024-06-18"
+      },
+      "localId": "029",
+      "number": "029/153",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "swsh9-031",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Gallant_Galaxy_V_Starter_Deck_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs6b-006",
+      "set": {
+        "id": "x-cn-cs6b",
+        "name": "Marine Shadow: Banish",
+        "releaseDate": "2024-09-20"
+      },
+      "localId": "006",
+      "number": "006/131",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Reverse holo"
+        ]
+      },
+      "counterpart": "swsh9-031",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten in deze set bestaan ook als reverse holo, alleen in het Chinees.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Marine_Shadow_(ATCG)"
+    },
+    {
+      "id": "x-cn-cs6b-132",
+      "set": {
+        "id": "x-cn-cs6b",
+        "name": "Marine Shadow: Banish",
+        "releaseDate": "2024-09-20"
+      },
+      "localId": "132",
+      "number": "132/131",
+      "name": "Lapras",
+      "rarity": "Illustration rare",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "S12a-177",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Marine_Shadow_(ATCG)"
+    },
+    {
+      "id": "x-cn-151-131",
+      "set": {
+        "id": "x-cn-151",
+        "name": "Collection 151",
+        "releaseDate": "2025-01-17"
+      },
+      "localId": "131",
+      "number": "131/151",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Poké Ball holo",
+          "Master Ball holo"
+        ]
+      },
+      "counterpart": "SV2a-131",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten bestaan ook als Poké Ball- en (zeldzamer) Master Ball-reverse holo.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Collection_151_(ATCG)"
+    },
+    {
+      "id": "x-cn-csvh2-004",
+      "set": {
+        "id": "x-cn-csvh2",
+        "name": "Lucario & Greninja & Zamazenta & Mabosstiff Happy Set",
+        "releaseDate": "2025-05-16"
+      },
+      "localId": "004",
+      "number": "004/058",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Reverse holo"
+        ]
+      },
+      "counterpart": "swsh9-031",
+      "note": "Vereenvoudigd Chinees. Ongeveer 6% kans op een mirror-holoversie.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Lucario_%26_Greninja_%26_Zamazenta_%26_Mabosstiff_Happy_Set_(ATCG)"
+    },
+    {
+      "id": "x-cn-csve2-031",
+      "set": {
+        "id": "x-cn-csve2",
+        "name": "Battle Party: Shining Dream",
+        "releaseDate": "2025-07-18"
+      },
+      "localId": "031",
+      "number": "031/207",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "swsh6-29",
+      "note": "Vereenvoudigd Chinees, Origin Forme Palkia VSTAR-deck. Bulbapedia geeft hier per abuis 021/207. Dex noemt ook een reverse holo; Bulbapedia bevestigt niet welke decks een holoversie hebben.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Battle_Party:_Shining_Dream_(ATCG)"
+    },
+    {
+      "id": "x-cn-csve2-032",
+      "set": {
+        "id": "x-cn-csve2",
+        "name": "Battle Party: Shining Dream",
+        "releaseDate": "2025-07-18"
+      },
+      "localId": "032",
+      "number": "032/207",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal"
+        ]
+      },
+      "counterpart": "swsh9-031",
+      "note": "Vereenvoudigd Chinees, Kyurem-deck.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Battle_Party:_Shining_Dream_(ATCG)"
+    },
+    {
+      "id": "x-cn-csv5-023",
+      "set": {
+        "id": "x-cn-csv5",
+        "name": "Ardent Obsidian",
+        "releaseDate": "2025-09-12",
+        "originalName": "黑晶炽诚"
+      },
+      "localId": "023",
+      "number": "023/129",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Poké Ball holo",
+          "Master Ball holo"
+        ]
+      },
+      "counterpart": "SV3a-002",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten bestaan ook als Poké Ball- en (zeldzamer) Master Ball-reverse holo.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Ardent_Obsidian_(ATCG)"
+    },
+    {
+      "id": "x-cn-csv6-029",
+      "set": {
+        "id": "x-cn-csv6",
+        "name": "Arcane Truth",
+        "releaseDate": "2025-11-07",
+        "originalName": "真实玄虚"
+      },
+      "localId": "029",
+      "number": "029/128",
+      "name": "Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Poké Ball holo",
+          "Master Ball holo"
+        ]
+      },
+      "counterpart": "sv03-045",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten bestaan ook als Poké Ball- en (zeldzamer) Master Ball-reverse holo.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Arcane_Truth_(ATCG)"
+    },
+    {
+      "id": "x-cn-csv9-037",
+      "set": {
+        "id": "x-cn-csv9",
+        "name": "Stellar Crystal",
+        "releaseDate": "2026-05-15",
+        "originalName": "星彩晶璃"
+      },
+      "localId": "037",
+      "number": "037/208",
+      "name": "Lapras ex",
+      "rarity": "Double rare",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "SV7-019",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Crystal_(ATCG)"
+    },
+    {
+      "id": "x-cn-csv9-220",
+      "set": {
+        "id": "x-cn-csv9",
+        "name": "Stellar Crystal",
+        "releaseDate": "2026-05-15",
+        "originalName": "星彩晶璃"
+      },
+      "localId": "220",
+      "number": "220/208",
+      "name": "Lapras ex",
+      "rarity": "Ultra Rare",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "SV7-117",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Crystal_(ATCG)"
+    },
+    {
+      "id": "x-cn-csv9-259",
+      "set": {
+        "id": "x-cn-csv9",
+        "name": "Stellar Crystal",
+        "releaseDate": "2026-05-15",
+        "originalName": "星彩晶璃"
+      },
+      "localId": "259",
+      "number": "259/208",
+      "name": "Lapras ex",
+      "rarity": "Hyper rare",
+      "languages": {
+        "zh-cn": [
+          "Holo"
+        ]
+      },
+      "counterpart": "sv07-158",
+      "note": "Vereenvoudigd Chinees (vasteland China).",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Stellar_Crystal_(ATCG)"
+    },
+    {
+      "id": "x-cn-csv10-050",
+      "set": {
+        "id": "x-cn-csv10",
+        "name": "Together in Pursuit of Glory",
+        "releaseDate": "2026-07-16",
+        "originalName": "共逐荣光"
+      },
+      "localId": "050",
+      "number": "050/222",
+      "name": "Misty's Lapras",
+      "languages": {
+        "zh-cn": [
+          "Normaal",
+          "Poké Ball holo",
+          "Master Ball holo"
+        ]
+      },
+      "counterpart": "SV9a-027",
+      "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten bestaan ook als Poké Ball- en (zeldzamer) Master Ball-reverse holo.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Together_in_Pursuit_of_Glory_(ATCG)"
     }
   ]
 }
