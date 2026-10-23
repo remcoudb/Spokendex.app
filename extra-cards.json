@@ -1307,6 +1307,52 @@
       "counterpart": "SV9a-027",
       "note": "Vereenvoudigd Chinees (vasteland China). Gewone kaarten bestaan ook als Poké Ball- en (zeldzamer) Master Ball-reverse holo.",
       "source": "https://bulbapedia.bulbagarden.net/wiki/Together_in_Pursuit_of_Glory_(ATCG)"
+    },
+    {
+      "id": "x-30th-thid-017",
+      "set": {
+        "id": "x-30th-thid",
+        "name": "30th Celebration (Thai/Indonesisch)",
+        "releaseDate": "2026-09-16",
+        "equivalent": "30th Celebration"
+      },
+      "localId": "017",
+      "number": "017/130",
+      "name": "Lapras",
+      "languages": {
+        "th": [
+          "Holo"
+        ],
+        "id": [
+          "Holo"
+        ]
+      },
+      "counterpart": "M6a-011",
+      "note": "Thaise en Indonesische uitgave van 30th Celebration, met een eigen nummering (…/130). Elke kaart in deze set is holo.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/30th_Celebration_(TCG)"
+    },
+    {
+      "id": "x-30th-thid-134",
+      "set": {
+        "id": "x-30th-thid",
+        "name": "30th Celebration (Thai/Indonesisch)",
+        "releaseDate": "2026-09-16",
+        "equivalent": "30th Celebration"
+      },
+      "localId": "134",
+      "number": "134/130",
+      "name": "Lapras",
+      "languages": {
+        "th": [
+          "Holo"
+        ],
+        "id": [
+          "Holo"
+        ]
+      },
+      "counterpart": "M6a-106",
+      "note": "Thaise en Indonesische uitgave van 30th Celebration, met een eigen nummering (…/130). Elke kaart in deze set is holo.",
+      "source": "https://bulbapedia.bulbagarden.net/wiki/30th_Celebration_(TCG)"
     }
   ]
 }
