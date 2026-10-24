@@ -1299,13 +1299,17 @@
       "es": [
         "Normaal",
         "Reverse holo"
+      ],
+      "pt": [
+        "Normaal",
+        "Reverse holo"
       ]
     },
     "defaultVariants": [
       "Normaal",
       "Reverse holo"
     ],
-    "note": "Gewone kaarten uit de hoofdset bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 17/68). Italiaans en Spaans staan niet bij TCGdex, maar worden op Cardmarket aangeboden.",
+    "note": "Gewone kaarten uit de hoofdset bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 17/68). Italiaans en Spaans staan niet bij TCGdex, maar worden op Cardmarket aangeboden. Portugees is toegevoegd voor de zekerheid; niet bevestigd.",
     "source": "https://bulbapedia.bulbagarden.net/wiki/Hidden_Fates_(TCG)"
   },
   "30th": {
