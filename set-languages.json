@@ -1286,5 +1286,14 @@
     ],
     "note": "Gewone kaarten uit de hoofdset bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 17/68).",
     "source": "https://bulbapedia.bulbagarden.net/wiki/Hidden_Fates_(TCG)"
+  },
+  "30th": {
+    "name": "30th Celebration",
+    "languages": {},
+    "defaultVariants": [
+      "Holo"
+    ],
+    "note": "Elke kaart in deze set is holo, ook de basis-energie.",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/30th_Celebration_(TCG)"
   }
 }
