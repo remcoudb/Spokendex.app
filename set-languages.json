@@ -1276,5 +1276,15 @@
     ],
     "note": "Gewone kaarten bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 21/70).",
     "source": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Majesty_(TCG)"
+  },
+  "sm115": {
+    "name": "Hidden Fates",
+    "languages": {},
+    "defaultVariants": [
+      "Normaal",
+      "Reverse holo"
+    ],
+    "note": "Gewone kaarten uit de hoofdset bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 17/68).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Hidden_Fates_(TCG)"
   }
 }
