@@ -1279,12 +1279,33 @@
   },
   "sm115": {
     "name": "Hidden Fates",
-    "languages": {},
+    "languages": {
+      "en": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "fr": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "de": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "it": [
+        "Normaal",
+        "Reverse holo"
+      ],
+      "es": [
+        "Normaal",
+        "Reverse holo"
+      ]
+    },
     "defaultVariants": [
       "Normaal",
       "Reverse holo"
     ],
-    "note": "Gewone kaarten uit de hoofdset bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 17/68).",
+    "note": "Gewone kaarten uit de hoofdset bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 17/68). Italiaans en Spaans staan niet bij TCGdex, maar worden op Cardmarket aangeboden.",
     "source": "https://bulbapedia.bulbagarden.net/wiki/Hidden_Fates_(TCG)"
   },
   "30th": {
