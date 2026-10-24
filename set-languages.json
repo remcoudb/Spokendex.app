@@ -1266,5 +1266,15 @@
     "officialCount": 60,
     "note": "Setnummers lopen tot 060 (TCGdex noemt 50).",
     "source": "https://bulbapedia.bulbagarden.net/wiki/Thunderclap_Spark_(TCG)"
+  },
+  "sm7.5": {
+    "name": "Dragon Majesty",
+    "languages": {},
+    "defaultVariants": [
+      "Normaal",
+      "Reverse holo"
+    ],
+    "note": "Gewone kaarten bestaan ook als reverse holo (bevestigd met een eigen exemplaar van Lapras 21/70).",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Majesty_(TCG)"
   }
 }
